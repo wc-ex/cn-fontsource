@@ -1,0 +1,13 @@
+{
+  "name": "字体圈欣意吉祥宋",
+  "description": "字体圈欣意吉祥宋",
+  "version": "1.0.30",
+  "fontFile": "ZiTiQuanXinYiJiXiangSong/ZiTiQuanXinYiJiXiangSong-2.ttf",
+  "extraFiles": [
+    "ZiTiQuanXinYiJiXiangSong/字体圈欣意吉祥宋授权证书.jpg",
+    "ZiTiQuanXinYiJiXiangSong/《吉祥宋》字体必读声明及使用范畴.txt"
+  ],
+  "download": "https://download.fastgit.org/wc-one/cn-font/releases/download/init/ZiTiQuanXinYiJiXiangSong.zip",
+  "link": "https://www.fonts.net.cn/font-39072283843.html",
+  "license": "free"
+}
