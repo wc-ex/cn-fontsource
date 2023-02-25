@@ -64,31 +64,31 @@
 4. 如同一字体有多个字重，请一并下载到此目录。
 5. 请将其他必要文件一并拷贝到此目录, 可能包括授权文件、LICENSE、样例等。
 
-## !!! 以下字体列表为通过 NPM 进行自动索引，内容均为网友自行提交，请使用者自行鉴别，谨防造成不必要的麻烦。使用商业字体请尊重版权和他人劳动成果。
-
+## 以下字体列表为通过 NPM 进行自动索引，内容均为网友自行提交，请使用者自行鉴别，谨防造成不必要的麻烦。使用商业字体请尊重版权和他人劳动成果。
+### 点击字体名称可跳转到字体包首页，内有引用说明
 <!--@LIST-->
 ### 开源字体: 11
 <p align="center">
-<a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-screen"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-screen@1.0.6/font.png" alt="cn-fontsource-lxgw-wen-kai-screen"></a>
-<a href="https://www.npmjs.com/package/cn-fontsource-yozai"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai@1.0.6/font.png" alt="cn-fontsource-yozai"></a>
-<a href="https://www.npmjs.com/package/cn-fontsource-yozai-light"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-light@1.0.6/font.png" alt="cn-fontsource-yozai-light"></a>
-<a href="https://www.npmjs.com/package/cn-fontsource-yozai-medium"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-medium@1.0.6/font.png" alt="cn-fontsource-yozai-medium"></a>
-<a href="https://www.npmjs.com/package/cn-fontsource-yozai-bold"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-bold@1.0.7/font.png" alt="cn-fontsource-yozai-bold"></a>
-<a href="https://www.npmjs.com/package/cn-fontsource-yozai-regular"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-regular@1.0.7/font.png" alt="cn-fontsource-yozai-regular"></a>
-<a href="https://www.npmjs.com/package/cn-fontsource-yozai-medium-regular"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-medium-regular@1.0.7/font.png" alt="cn-fontsource-yozai-medium-regular"></a>
-<a href="https://www.npmjs.com/package/cn-fontsource-yozai-light-regular"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-light-regular@1.0.7/font.png" alt="cn-fontsource-yozai-light-regular"></a>
-<a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-gb-screen"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-gb-screen@1.0.6/font.png" alt="cn-fontsource-lxgw-wen-kai-gb-screen"></a>
-<a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-screen-r"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-screen-r@1.0.6/font.png" alt="cn-fontsource-lxgw-wen-kai-screen-r"></a>
-<a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-gb-screen-r"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-gb-screen-r@1.0.6/font.png" alt="cn-fontsource-lxgw-wen-kai-gb-screen-r"></a>
+<a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-screen">cn-fontsource-lxgw-wen-kai-screen<img src="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-screen@1.0.6/font.png" alt="cn-fontsource-lxgw-wen-kai-screen"></a>
+<a href="https://www.npmjs.com/package/cn-fontsource-yozai">cn-fontsource-yozai<img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai@1.0.6/font.png" alt="cn-fontsource-yozai"></a>
+<a href="https://www.npmjs.com/package/cn-fontsource-yozai-light">cn-fontsource-yozai-light<img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-light@1.0.6/font.png" alt="cn-fontsource-yozai-light"></a>
+<a href="https://www.npmjs.com/package/cn-fontsource-yozai-medium">cn-fontsource-yozai-medium<img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-medium@1.0.6/font.png" alt="cn-fontsource-yozai-medium"></a>
+<a href="https://www.npmjs.com/package/cn-fontsource-yozai-bold">cn-fontsource-yozai-bold<img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-bold@1.0.7/font.png" alt="cn-fontsource-yozai-bold"></a>
+<a href="https://www.npmjs.com/package/cn-fontsource-yozai-regular">cn-fontsource-yozai-regular<img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-regular@1.0.7/font.png" alt="cn-fontsource-yozai-regular"></a>
+<a href="https://www.npmjs.com/package/cn-fontsource-yozai-medium-regular">cn-fontsource-yozai-medium-regular<img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-medium-regular@1.0.7/font.png" alt="cn-fontsource-yozai-medium-regular"></a>
+<a href="https://www.npmjs.com/package/cn-fontsource-yozai-light-regular">cn-fontsource-yozai-light-regular<img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-light-regular@1.0.7/font.png" alt="cn-fontsource-yozai-light-regular"></a>
+<a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-gb-screen">cn-fontsource-lxgw-wen-kai-gb-screen<img src="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-gb-screen@1.0.6/font.png" alt="cn-fontsource-lxgw-wen-kai-gb-screen"></a>
+<a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-screen-r">cn-fontsource-lxgw-wen-kai-screen-r<img src="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-screen-r@1.0.6/font.png" alt="cn-fontsource-lxgw-wen-kai-screen-r"></a>
+<a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-gb-screen-r">cn-fontsource-lxgw-wen-kai-gb-screen-r<img src="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-gb-screen-r@1.0.6/font.png" alt="cn-fontsource-lxgw-wen-kai-gb-screen-r"></a>
 </p>
 ### 免费字体: 6
 <p align="center">
-<a href="https://www.npmjs.com/package/cn-fontsource-hongleixingshu"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-hongleixingshu@1.0.6/font.png" alt="cn-fontsource-hongleixingshu"></a>
-<a href="https://www.npmjs.com/package/cn-fontsource-slideqiuhong-regular"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-slideqiuhong-regular@1.0.6/font.png" alt="cn-fontsource-slideqiuhong-regular"></a>
-<a href="https://www.npmjs.com/package/cn-fontsource-honglei-sim-regular"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-honglei-sim-regular@1.0.6/font.png" alt="cn-fontsource-honglei-sim-regular"></a>
-<a href="https://www.npmjs.com/package/cn-fontsource-hong-lei-zhuo-shu-regular"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-hong-lei-zhuo-shu-regular@1.0.6/font.png" alt="cn-fontsource-hong-lei-zhuo-shu-regular"></a>
-<a href="https://www.npmjs.com/package/cn-fontsource-fz-fang-song-z-02-s-regular"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-fz-fang-song-z-02-s-regular@1.0.7/font.png" alt="cn-fontsource-fz-fang-song-z-02-s-regular"></a>
-<a href="https://www.npmjs.com/package/cn-fontsource-fontquan-xin-yi-ji-xiang-song-regular"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-fontquan-xin-yi-ji-xiang-song-regular@1.0.7/font.png" alt="cn-fontsource-fontquan-xin-yi-ji-xiang-song-regular"></a>
+<a href="https://www.npmjs.com/package/cn-fontsource-hongleixingshu">cn-fontsource-hongleixingshu<img src="https://cdn.jsdelivr.net/npm/cn-fontsource-hongleixingshu@1.0.6/font.png" alt="cn-fontsource-hongleixingshu"></a>
+<a href="https://www.npmjs.com/package/cn-fontsource-slideqiuhong-regular">cn-fontsource-slideqiuhong-regular<img src="https://cdn.jsdelivr.net/npm/cn-fontsource-slideqiuhong-regular@1.0.6/font.png" alt="cn-fontsource-slideqiuhong-regular"></a>
+<a href="https://www.npmjs.com/package/cn-fontsource-honglei-sim-regular">cn-fontsource-honglei-sim-regular<img src="https://cdn.jsdelivr.net/npm/cn-fontsource-honglei-sim-regular@1.0.6/font.png" alt="cn-fontsource-honglei-sim-regular"></a>
+<a href="https://www.npmjs.com/package/cn-fontsource-hong-lei-zhuo-shu-regular">cn-fontsource-hong-lei-zhuo-shu-regular<img src="https://cdn.jsdelivr.net/npm/cn-fontsource-hong-lei-zhuo-shu-regular@1.0.6/font.png" alt="cn-fontsource-hong-lei-zhuo-shu-regular"></a>
+<a href="https://www.npmjs.com/package/cn-fontsource-fz-fang-song-z-02-s-regular">cn-fontsource-fz-fang-song-z-02-s-regular<img src="https://cdn.jsdelivr.net/npm/cn-fontsource-fz-fang-song-z-02-s-regular@1.0.7/font.png" alt="cn-fontsource-fz-fang-song-z-02-s-regular"></a>
+<a href="https://www.npmjs.com/package/cn-fontsource-fontquan-xin-yi-ji-xiang-song-regular">cn-fontsource-fontquan-xin-yi-ji-xiang-song-regular<img src="https://cdn.jsdelivr.net/npm/cn-fontsource-fontquan-xin-yi-ji-xiang-song-regular@1.0.7/font.png" alt="cn-fontsource-fontquan-xin-yi-ji-xiang-song-regular"></a>
 </p>
 ### 商业字体: 0
 <p align="center">
