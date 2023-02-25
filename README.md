@@ -81,9 +81,8 @@ npm install --global @wcex/cn-fontsource
 
 <!--@LIST-->
 ### 开源字体: 11
-align="center"
 <p align="center">
- <a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-screen">cn-fontsource-lxgw-wen-kai-screen</a>
+ <h5><a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-screen">cn-fontsource-lxgw-wen-kai-screen</a></h5>
  <img src="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-screen@1.0.6/font.png" alt="cn-fontsource-lxgw-wen-kai-screen">
 </p>
  <a href="https://www.npmjs.com/package/cn-fontsource-yozai">cn-fontsource-yozai</a>
