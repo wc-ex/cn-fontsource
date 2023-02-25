@@ -72,25 +72,19 @@ async function checkNpmPkg(pkgName) {
   }
 //  
 let str=`### 开源字体: ${opensource.length}\n`;
-str += `<p >\n`;
 for(let p of opensource){
-    str += `<a href="https://www.npmjs.com/package/${p.name}">${p.name}</a><img src="https://cdn.jsdelivr.net/npm/${p.name}@${p.version}/font.png" alt="${p.name}">\n`
+    str += `<p align="center"><h4><a href="https://www.npmjs.com/package/${p.name}">${p.name}</a></h4><img src="https://cdn.jsdelivr.net/npm/${p.name}@${p.version}/font.png" alt="${p.name}"></p>\n`
 }
-str += `</p>\n`;
 // ==== free
 str +=`### 免费字体: ${free.length}\n`;
-str += `<p>\n`;
 for(let p of free){
     str += `<a href="https://www.npmjs.com/package/${p.name}">${p.name}</a><img src="https://cdn.jsdelivr.net/npm/${p.name}@${p.version}/font.png" alt="${p.name}">\n`
 }
-str += `</p>\n`;
 //=== paid
 str +=`### 商业字体: ${paid.length}\n`;
-str += `<p>\n`;
 for(let p of paid){
     str += `<a href="https://www.npmjs.com/package/${p.name}">${p.name}</a><img src="https://cdn.jsdelivr.net/npm/${p.name}@${p.version}/font.png" alt="${p.name}">\n`
 }
-str += `</p>\n`;
 
 // 更新README
 
