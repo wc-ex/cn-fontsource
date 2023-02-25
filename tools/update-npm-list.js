@@ -47,8 +47,9 @@ async function checkNpmPkg(pkgName) {
 
 (async () => {
   // 搜索npm包
+  let ret={};
   try{
-    let ret = await axios.get(` "https://registry.npmjs.com/-/v1/search?text=cn-fontsource-&size=250"`, {
+     ret = await axios.get("https://registry.npmjs.com/-/v1/search?text=cn-fontsource-&size=250", {
       responseType: "json",
       validateStatus(status) {
         return status < 500;
@@ -58,12 +59,13 @@ async function checkNpmPkg(pkgName) {
     process.exit(0);
   }
 
+  // console.log(ret)
   // let jsonPkg = ret;
 
 
   // 获取有效包
   let validPkgs = [];
-  for (let p of ret.objects) {
+  for (let p of ret.data.objects) {
     // 获取详细包信息
     let ret = await checkNpmPkg(p.package.name);
     if (ret) validPkgs.push(ret);
