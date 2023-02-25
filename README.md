@@ -81,10 +81,12 @@ npm install --global @wcex/cn-fontsource
 
 <!--@LIST-->
 ### 开源字体: 11
-<p >
 <a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-screen">cn-fontsource-lxgw-wen-kai-screen</a><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-screen@1.0.6/font.png" alt="cn-fontsource-lxgw-wen-kai-screen">
+
 <a href="https://www.npmjs.com/package/cn-fontsource-yozai">cn-fontsource-yozai</a><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai@1.0.6/font.png" alt="cn-fontsource-yozai">
+
 <a href="https://www.npmjs.com/package/cn-fontsource-yozai-bold">cn-fontsource-yozai-bold</a><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-bold@1.0.7/font.png" alt="cn-fontsource-yozai-bold">
+
 <a href="https://www.npmjs.com/package/cn-fontsource-yozai-light">cn-fontsource-yozai-light</a><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-light@1.0.6/font.png" alt="cn-fontsource-yozai-light">
 <a href="https://www.npmjs.com/package/cn-fontsource-yozai-medium">cn-fontsource-yozai-medium</a><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-medium@1.0.6/font.png" alt="cn-fontsource-yozai-medium">
 <a href="https://www.npmjs.com/package/cn-fontsource-yozai-regular">cn-fontsource-yozai-regular</a><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-regular@1.0.7/font.png" alt="cn-fontsource-yozai-regular">
@@ -93,9 +95,7 @@ npm install --global @wcex/cn-fontsource
 <a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-gb-screen">cn-fontsource-lxgw-wen-kai-gb-screen</a><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-gb-screen@1.0.6/font.png" alt="cn-fontsource-lxgw-wen-kai-gb-screen">
 <a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-screen-r">cn-fontsource-lxgw-wen-kai-screen-r</a><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-screen-r@1.0.6/font.png" alt="cn-fontsource-lxgw-wen-kai-screen-r">
 <a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-gb-screen-r">cn-fontsource-lxgw-wen-kai-gb-screen-r</a><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-gb-screen-r@1.0.6/font.png" alt="cn-fontsource-lxgw-wen-kai-gb-screen-r">
-</p>
 ### 免费字体: 6
-<p>
 <a href="https://www.npmjs.com/package/cn-fontsource-hongleixingshu">cn-fontsource-hongleixingshu</a><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-hongleixingshu@1.0.6/font.png" alt="cn-fontsource-hongleixingshu">
 <a href="https://www.npmjs.com/package/cn-fontsource-slideqiuhong-regular">cn-fontsource-slideqiuhong-regular</a><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-slideqiuhong-regular@1.0.6/font.png" alt="cn-fontsource-slideqiuhong-regular">
 <a href="https://www.npmjs.com/package/cn-fontsource-honglei-sim-regular">cn-fontsource-honglei-sim-regular</a><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-honglei-sim-regular@1.0.6/font.png" alt="cn-fontsource-honglei-sim-regular">
