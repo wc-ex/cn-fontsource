@@ -4,13 +4,13 @@ const axios = require("axios");
 const path = require('path')
 const fs = require('fs')
 
-const ret = child_process.execSync(
-  `npm -registry "https://registry.npmjs.org/"  search --prefer-online --no-description --json "cn-fontsource-"`,
-  { stdio: "pipe", encoding: "utf8" }
-);
+// const ret = child_process.execSync(
+//   `npm -registry "https://registry.npmjs.org/"  search --prefer-online --no-description --json "cn-fontsource-"`,
+//   { stdio: "pipe", encoding: "utf8" }
+// );
 
 /** @type string[] */
-let jsonPkg = JSON.parse(ret);
+// let jsonPkg = JSON.parse(ret);
 
 /**
  * 成功返回最新包信息，失败返回undefined
@@ -46,11 +46,21 @@ async function checkNpmPkg(pkgName) {
 }
 
 (async () => {
+  // 搜索npm包
+  let ret = await axios.get(` "https://registry.npmjs.com/-/v1/search?text=cn-fontsource-&size=250"`, {
+    responseType: "json",
+    validateStatus(status) {
+      return status < 500;
+    }});
+
+  // let jsonPkg = ret;
+
+
   // 获取有效包
   let validPkgs = [];
-  for (let p of jsonPkg) {
+  for (let p of ret.objects) {
     // 获取详细包信息
-    let ret = await checkNpmPkg(p.name);
+    let ret = await checkNpmPkg(p.package.name);
     if (ret) validPkgs.push(ret);
   }
   // 分类
