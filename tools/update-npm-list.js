@@ -47,11 +47,16 @@ async function checkNpmPkg(pkgName) {
 
 (async () => {
   // 搜索npm包
-  let ret = await axios.get(` "https://registry.npmjs.com/-/v1/search?text=cn-fontsource-&size=250"`, {
-    responseType: "json",
-    validateStatus(status) {
-      return status < 500;
-    }});
+  try{
+    let ret = await axios.get(` "https://registry.npmjs.com/-/v1/search?text=cn-fontsource-&size=250"`, {
+      responseType: "json",
+      validateStatus(status) {
+        return status < 500;
+      }});  
+  }catch(e){
+    console.log('Error: ',e.message);
+    process.exit(0);
+  }
 
   // let jsonPkg = ret;
 
