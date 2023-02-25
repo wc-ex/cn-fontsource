@@ -76,14 +76,14 @@ for(let p of opensource){
     str += `<p align="center"><h4><a href="https://www.npmjs.com/package/${p.name}">${p.name}</a></h4><img src="https://cdn.jsdelivr.net/npm/${p.name}@${p.version}/font.png" alt="${p.name}"></p>\n`
 }
 // ==== free
-str +=`### 免费字体: ${free.length}\n`;
+str +=`\n### 免费字体: ${free.length}\n`;
 for(let p of free){
-    str += `<a href="https://www.npmjs.com/package/${p.name}">${p.name}</a><img src="https://cdn.jsdelivr.net/npm/${p.name}@${p.version}/font.png" alt="${p.name}">\n`
+    str += `<p align="center"><h4><a href="https://www.npmjs.com/package/${p.name}">${p.name}</a></h4><img src="https://cdn.jsdelivr.net/npm/${p.name}@${p.version}/font.png" alt="${p.name}"></p>\n`
 }
 //=== paid
-str +=`### 商业字体: ${paid.length}\n`;
+str +=`\n### 商业字体: ${paid.length}\n`;
 for(let p of paid){
-    str += `<a href="https://www.npmjs.com/package/${p.name}">${p.name}</a><img src="https://cdn.jsdelivr.net/npm/${p.name}@${p.version}/font.png" alt="${p.name}">\n`
+    str += `<p align="center"><h4><a href="https://www.npmjs.com/package/${p.name}">${p.name}</a></h4><img src="https://cdn.jsdelivr.net/npm/${p.name}@${p.version}/font.png" alt="${p.name}"></p>\n`
 }
 
 // 更新README
