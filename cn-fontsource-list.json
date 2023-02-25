@@ -1,0 +1,1162 @@
+{
+  "free": [
+    {
+      "name": "cn-fontsource-slideqiuhong-regular",
+      "description": "「演示秋鸿楷」的字稿作者是一位高中教师刘锡栋，98年加入农民书画家协会，并由Keynote研究所的人生哥进行半自动流程字稿制作，并向全社会发布免费可商用",
+      "version": "1.0.6",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "演示秋鸿楷"
+      ],
+      "font": {
+        "type": "free",
+        "fontClass": [
+          "楷书"
+        ],
+        "link": "https://www.fonts.net.cn/font-38836352052.html",
+        "version": "Version 1.000",
+        "familyName": "Slideqiuhong",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright © 2020 by Keynoteart. All rights reserved.",
+        "characterCount": 6971
+      },
+      "license": "unknown",
+      "gitHead": "c559a0f29bae35180956b5bb8148de553c4db319",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-slideqiuhong-regular@1.0.6",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-4jS75Cj3u/nTS0b+Zlskj0bALeKxdo76FpR5mDgz+vluqX7++wHsONNjXkUUC4JFYKuhxlbrnpjH4hmMehekKw==",
+        "shasum": "c9f293c32ba18cf38b2f94f5c7e454762f2f4c1c",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-slideqiuhong-regular/-/cn-fontsource-slideqiuhong-regular-1.0.6.tgz",
+        "fileCount": 71,
+        "unpackedSize": 7004480,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEYCIQDg/v46leVw74SBM4AyY83ru2q7gMf9mT4zFwLD6ZqsvgIhANqXVyK1r5fhipakgt1AXYewyff+r2QNx06GINbE/G49"
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+il6ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpgDBAAmpkgYTlU9VBJIcBTNZIOiTdyBzkiYRSDn8T/FEu6vibNEazf\r\naXCPNUOL8bmmo5NdnVRHkLKi6oF3pJ0FlL14FakBavVSlW9RxuYuC8muUBQZ\r\nX16zrq3EiGFefXV53jtVzhKob4YKXd4fPMr71NHMlCaAXN3bHdafetpmkUD1\r\nlxC2ROp8hW88K06uTL7JMEg23YtDlEIsl0iEniR9Xxzub9ZGzH25gGvYxw66\r\nA8M3XyrYVkxxI+ujKbpRD2ov3YwyDMZRQU7Cqd/Gqh0PpjTj9qwLxBJT32Hd\r\nqtJ6zCQCUWgff0hOLe0V075yByPchH6CELvTFtaA6sKymFoLsqT54E/Db9Vt\r\ngRROIBAGGmeJSWn0+QGLqjEhKPcNb5YF5TgQJo+raAyjWzrLS1Q1LnoAZIS5\r\n8GHCUZm3XfCBUKJUMQCRQgRPN1U6dQne4Ylfs29+uYR6qsT2wqy2bv/hYREo\r\njPXSBbIe4FMFUMXGtHA/Rg88zReoRJEEADQr6Y0C1KrQZb13BMurN+/XPQ1Q\r\nljPjSTEvVKnBMyLSz5fLc5LAfEwTn0Leytef59QntQS8/GC3Ko0HMVG4MwVy\r\nC8tRhbe6txgVxeP9+wudd+G7mvNWExET5Fn7mRiQAWRF0fYFuyxVN9Hlk66k\r\n9ygKkJh5rhZCVwX7R1nBNgMljPpXeYRmeKc=\r\n=kenM\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-slideqiuhong-regular_1.0.6_1677339001995_0.6090783071905677"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-hongleixingshu-regular",
+      "description": "因为太闲了，两年后我又写了一套免费字体！",
+      "version": "1.0.7",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "鸿雷行书简体"
+      ],
+      "font": {
+        "type": "free",
+        "fontClass": [
+          "鸿雷",
+          "行书"
+        ],
+        "link": "https://www.maoken.com/freefonts/16904.html",
+        "version": "Version 2.00;August 23, 2022;FontCreator 13.0.0.2613 64-bit",
+        "familyName": "hongleixingshu",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright © 2022 by 林鸿雷. All rights reserved.",
+        "characterCount": 7011
+      },
+      "license": "free",
+      "gitHead": "4327e6e433070459ed7550d56a3deb633cb646e7",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-hongleixingshu-regular@1.0.7",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-5AnU20kXross2kfGlbt2R0IMWljwHxEDQaSUrVc4St13Y3mjrPeOQJOmGyY6VRX545q25DdAxgHcVIre09o1qQ==",
+        "shasum": "576826d05e50762076675826feb348d5c9d6c6d1",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-hongleixingshu-regular/-/cn-fontsource-hongleixingshu-regular-1.0.7.tgz",
+        "fileCount": 72,
+        "unpackedSize": 5084397,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEYCIQCXSx1qqh5g80be5qKTX+Q5ISCp5yrz5B+Bta6K/07ixQIhAL2dfSQ9+Ya6WeTsVXsLloykjS18GglU+160o9rpUR7E"
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+l9lACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrK6A//USLC4vMcfgy26fr11uRJ3qKTA8/NKj6PPQF2sl/0JiC/7DdM\r\nipFIjLf2eZnvu6AcW5LCChXIcfFfXk64i1y+7v3zn0WEraf5ZMn6RswBixJr\r\n9/YPqYYvaEjXY2T/kBYAlkEBD3mFeW5/xKRX3YVoUIzbEe/UWo++C5Td/ojb\r\nK9IOcHaBdlYU/9B0V42oT8ChVTBrmwS1n98K2ee55RLVQuoawZxrnY17j2E7\r\n6U9YRlOXpxVFZvMWDA3RqNdRWd0vkrR+bXj3e9T3vKzHfoaPmYIztd34SjO5\r\nrFKsC6lseJQEGv1aRi9Xloq1UWJbHTQva8W9Pa77yGn2tcOMF6o1EtO/NkaS\r\nau7/YM6vnR5nRWEUrLCMKF1ynu4D3ybDMLwqGpXnYgUYvtq5xNuy1JUxR/GN\r\nHQe87g3DkFS4sR5l5VxHPOUlhaxW6P/3OvTo0PARKDKFfvXWZdrcVh5D4xU6\r\neQhxc+atqFpIrgUpgGJ/gmKHPJdL2K7wWgHh5sWYJu7fcoxapGVzas8OtbZU\r\na7NonjXi4Khv7z1AiEgodAHk2Nc9NqP0WxgNxUH/cVWWdujS4/IB+QrJo+eq\r\npaecM2q1Ed1xszu3kTMsGFc7qMdiw0Ah4nf5fwL4wrFcQLK2x5p/5YY06V7z\r\nzz80UStEmyY70/bP7xIC6nAfwYHpBHPq/qc=\r\n=DH/1\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-hongleixingshu-regular_1.0.7_1677352805309_0.03606519002404185"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-honglei-sim-regular",
+      "description": "关于如何看待这个字体我是这么想的“作为一个手写爱好者，我没有经过传统书法的熏陶与练习，走上了江湖道路，凭借满腔喜爱坚持写下这套字体。或许……这套糟糕的字体会拉低了行业字库的水准，但不管好坏也算是圆了我的字库梦想。”\n1、如果要问起为什么要写这个套字体？\n最初源于练字……当时没有什么可以写的内容,于是想到了抄写千字文。再后来，嗯，都写了1000字了，也不差剩下的五六千字了。于是就有了《鸿雷板书简体》。\n\n2、为什么叫板书简体呢？\n因为他是用手绘板写的简体部分\n3、如果问到我将如何看待或者如何处置这个《鸿雷板",
+      "version": "1.0.6",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "鸿雷板书简体"
+      ],
+      "font": {
+        "type": "free",
+        "fontClass": [
+          "鸿雷",
+          "手写"
+        ],
+        "link": "https://www.maoken.com/freefonts/3791.html",
+        "version": "Version 1.000",
+        "familyName": "honglei sim",
+        "subfamilyName": "Regular",
+        "copyright": null,
+        "characterCount": 6996
+      },
+      "license": "unknown",
+      "gitHead": "c559a0f29bae35180956b5bb8148de553c4db319",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-honglei-sim-regular@1.0.6",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-ysUbVdx/p3Pq82TXq4ijldq95tQvoCaKGvVztLtsr/u9MuzHi3cLqlaotBXTuYC5F4ZfiOAoVb7X8pq/W89mxg==",
+        "shasum": "66e8a6df9b72c040a33cd85274eac1dda6e25877",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-honglei-sim-regular/-/cn-fontsource-honglei-sim-regular-1.0.6.tgz",
+        "fileCount": 72,
+        "unpackedSize": 5626709,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEUCIQC+u23FdlEEWUtNpD0/U6ylsPPTOmTSEgqCSYhLo7ChGQIgfyLAVbGJI4dzAVB0sdc6UZO5Vx4miAyLBKMtK2jvy8w="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+i4cACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrOSBAAnFPgMRVdG3IuhwPNzHCju9H1vlK9JmsEmCUlT60bJB1AI9u+\r\nawFuZnTMaWUKq0YT/hI39ep028vZ1k9U6M6CU27kIq9SCx6oYaQAvPT3yyXG\r\nsCemtFqukycNRETMIf6PMNRpHjkZn1UmAQGPxHsAUzwPOGuTuwXwcGkwoi14\r\n31Q5LclkuYzm8WSMjxdS9JL8Jwy5FPLO36QcQqnLNfaJbWq0d4mQIJhhUELq\r\nYUTYUJT9xIvna9HhlTl7pr2M0gNvoFFazQrNVq7fc/vrl1AdVsf9jryHoczv\r\n1myqdNVSdHNwXpQCl6VWyUr7eRc4nyMLxRiCcxtOtVWIo9JjfajbbH5Ewjso\r\nVsX6PcZ0G0uYqPzlUFTO5o3baovurppe11E3WVbHL+4eyVikB1V+SJzq4Cn6\r\nHnNrhEXXWmwTBdgISbtDJatWafbNRDojug+qj7P+b/v1NB5eeGFnvYPkgDOP\r\naWjifozQwmnmGH3/ey55wxd+VqA2CGEEiN2l8JsZzKcfqM7bBBFIFpEsvxNJ\r\nu7ae8z60RvJg5J32kJ8doG8/gUqQ4xzd6oxqhjyePJJWEa4R6kgjaOfrJrwY\r\nJ0lg0N3MvVZgvzGheMRMeZk8IMaWYrgCOdXEzdPonSx0sDKrcO4d30bpnEmG\r\n95Zfohdf4oclYaeo+lX8tkrZ9QtTscq/ahE=\r\n=dZVV\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-honglei-sim-regular_1.0.6_1677340188542_0.6005779269548808"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-maoken-zhuyuan-ti-regular",
+      "description": "一款可爱的标题字体 基于龙珠体进行圆润调整 免费商用",
+      "version": "1.0.1",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "猫啃珠圆体"
+      ],
+      "font": {
+        "type": "free",
+        "fontClass": [
+          "猫啃",
+          "手写"
+        ],
+        "link": "https://www.maoken.com/freefonts/17948.html",
+        "version": "Version 1.000; 20230222",
+        "familyName": "MaokenZhuyuanTi",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright 2022-2023 LongZhuTi Project Authors. Copyright 2020 The RocknRoll Project Authors (https://github.com/fontworks-fonts/RocknRoll)",
+        "characterCount": 14329
+      },
+      "license": "unknown",
+      "gitHead": "ccedaa4529f563b1d380e9cbd9625325dd88e966",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-maoken-zhuyuan-ti-regular@1.0.1",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-/QhyZTBdq0i4pwzGtsjsIjgd0FmWD5sttYo3bCHlUu1/gmd1m6+XIUcVE/CQlLgF036GiB75mPD8FFvLEyCWsw==",
+        "shasum": "3fc449d2f7e26da1fdc560abbad7d5c79a765b91",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-maoken-zhuyuan-ti-regular/-/cn-fontsource-maoken-zhuyuan-ti-regular-1.0.1.tgz",
+        "fileCount": 163,
+        "unpackedSize": 2986361,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEQCIA4Bb16d9+AtIRy6iZOR512EQ9x0nVcTGx3SlUD78ALlAiAKEHeaNuWNxeKtDezPEUqZ2yyGxXliMyQcFzYwvNxqRA=="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+mK2ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrkPBAAl7BVu08sMnvqiEP4uUtYk82L3H+Bukri96Dpq7qe6cJR1/48\r\n8fjjn7OC+PnvrAuvJgeEMFQpE6NKOQfRfOyvUQAvjITVhLA+CWtvFeq6E3E2\r\nEF3el7lOk+ptLj71pxZkf3X+mk5XboSAj1tghj7bL4CmeBaEIkgtjjOsGeQT\r\nbBoXfnSGliYegp18jKj0/8s0dlc17C+OK3mPeHmrAiyxGjK8D60fhr/KrFX1\r\nf8dQI1x6tUmqzbA8z+IKpPdTlVrbbiBOb1NiX9+aYRzAVV8biqEfcPOcRP92\r\n6ZhSA639mg4vf63AU6RAAVeRJ5UGU6JVHjNZJZV4COX4wwiscDQ28uJBK1d6\r\nRItgv1pPnpclpV6uZPOB8yHOBcIX1ymnUVQ2L41T6hfPUFJofAfjUjtkkxg+\r\nqJXP4uxOPGYHzQbK8CzjAbDjitzXjGHhweaHeYY8yHP/lqz0EGd0pM2Th8HC\r\ncb+CctNLYfslYsA0N+yyIhipGJ+qJoLDRU05UGtN211n/oQR3VzT8u9VyoXi\r\n4vxXIVL9lZQthggUdMXAYwPSlahMCfdP+YcCAHDVGFLiVejmNP6swu/duhSa\r\ndCoGM75WqmvAgNQgaY/p4ppuuZ6gQp9tZ2e5PTfh9MN73wEG2QvOafHjvi0j\r\nUE6FP801JAtmDCJI5t0QxGVnbVxeuv/FhTU=\r\n=KBVF\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-maoken-zhuyuan-ti-regular_1.0.1_1677353654689_0.004250751994353097"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-fz-hei-b-01-regular",
+      "description": "就是这么朴实无华的黑体字型免费商用",
+      "version": "1.0.1",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "方正黑体"
+      ],
+      "font": {
+        "type": "free",
+        "fontClass": [
+          "方正",
+          "黑体"
+        ],
+        "link": "https://www.maoken.com/freefonts/1831.html",
+        "version": "1.10",
+        "familyName": "FZHei-B01",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright(c) Founder Corporation.1999",
+        "characterCount": 21992
+      },
+      "license": "unknown",
+      "gitHead": "f5d38e15236f5736c3dd2b18b60a05f230756e7d",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-fz-hei-b-01-regular@1.0.1",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-BVat/AxixIfJ6M7geg9KI+HFcBBB7WKUX3AZhUA/1K37B8djpKMwxfnnnOfwyp/D3idKeT3UxWJiQ4hRfI4F7Q==",
+        "shasum": "db26755c20ec7d090ef429c49dfd5c5b5ca215fc",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-fz-hei-b-01-regular/-/cn-fontsource-fz-hei-b-01-regular-1.0.1.tgz",
+        "fileCount": 283,
+        "unpackedSize": 4404821,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEYCIQC5RfHKpkFAw6ozJUzgj2zu7KXMHo94iQsiDvQ2tShjWAIhALHLb/kOx3ryYW/CTxSNr31oZQmXZ8YAGJXLzNVo6lSq"
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+lzUACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoN9Q//WzEph+fn8kRvRzvsB8RA62a9DDpkcZGeOKANLLNqHP14bnSv\r\niDZYnU0AeP0MStCf5PB77+l1Uu1pvzJqtstO1LwOLvEQXn1gBObiGqhQhyUZ\r\n0o8VMpYyt/XHhQGVh/lf7yhW4Jid2E2H/rUAwflwlR67hVIMuoJ1UUR9dcrL\r\nLD+eDK0g2bpXhG9sb9TxLHIiZ4WWb/Pd9wod19/bdkblnIOsQVTQB4n0GpvI\r\nX+loD2duzUMQJtv9lf8na7A8dooF98oRuR/X42OKM52IoBS2vr53XI8W0U9n\r\nYrXQIX8/QyifXccX7sFj5K/DAB0yKk9GRDjvA/Nd+Yo4/YfLQa7jCyVnUpe6\r\ne/g6xy7uW0Pqu7xDWjOf8RjVOWpmpKEg2eDHSU3Tu68nv6l8x4hYIo7j3G+3\r\neQZIdhXmIyZfZpD3wr/JCrCGTXHvnIHlHy2wsz+GGqTRcOvzjGYl4Fha+y+9\r\nwKF7y0G5V0a3CGgjWGiTzYYKfHmc+AhGsb3i2UA+2uwkGr60UdVT7S617C88\r\n+5VpUgbeDYz+qpVj8ObZhgBlRqFuGyUrcw8Rs799CPcGGMXaDCAv33QH1E8A\r\nGG7QkmMJjMnrH78gcezeDF8Oside3zZyatpZQnXmDKdbe6dz1s/dVJHe1bmE\r\njDJeuijAnErbOambwKlKv4D84qn9g9SNd4Q=\r\n=MECZ\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-fz-hei-b-01-regular_1.0.1_1677352148098_0.6690564216460559"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-fz-kai-z-03-regular",
+      "description": "方正楷体简体：好似兰花不妖不柔 留下清香沁人心脾",
+      "version": "1.0.1",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "方正楷体"
+      ],
+      "font": {
+        "type": "free",
+        "fontClass": [
+          "方正",
+          "楷体"
+        ],
+        "link": "https://www.maoken.com/freefonts/1850.html",
+        "version": "1.10",
+        "familyName": "FZKai-Z03",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright(c) Founder Corporation.1999",
+        "characterCount": 21992
+      },
+      "license": "unknown",
+      "gitHead": "f5d38e15236f5736c3dd2b18b60a05f230756e7d",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-fz-kai-z-03-regular@1.0.1",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-70ylovPHRkO5H2VWiNdJkU1UqMVNhHA1y/bEL5f1rhI6i0iHzcVLndFE4llVgZNauMiuUolf1kF3gFzRoNsPoQ==",
+        "shasum": "f57032c2492f6871c8bb145140554239cf40f2fc",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-fz-kai-z-03-regular/-/cn-fontsource-fz-kai-z-03-regular-1.0.1.tgz",
+        "fileCount": 283,
+        "unpackedSize": 6435360,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEUCIQDzsH5o/LOcLATZwR5snF/Wc8LA7HKHMpBv+1JQcGfJ4wIgbUzXmvV6aJdtODWk4/pTTc3CgpK22c9CSV74H4ZyzSA="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+lxGACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmpgcg//cYWkOW1Hrjc8KpuIGd4mX8TgSNKKWEAZaPEx6cFzKqQ+TKso\r\n/NeHUPCHc4Zfzdoik601edpAOSKgWlWuycphy2KGz9whzFjwLyjTtOK969SO\r\nkP/LTu0tQyxgHE9L4UDfie5rik6im054X0DWZvsv0s0d8Amxp6iq7ECInTj3\r\nnnv5GGaBrQS/isidqzXdWOoIZ2hYJO5IS7LK9TdpGEARBSBX1IyU/YZZF+TU\r\nMlm5PlMmbbDuMEl+eL561R4YXOZvw66T889d38Jz9tuBfOK/LCSllYTy9RFK\r\nSjxQ/32dmsOHGdvYElNrd/IWsyMyAdg1oMVklARJ2+yu9y3hI22S2bHzR1L4\r\nhhGAHHW8ooFtm9taAiJapGhbTFY2Xwas6CK6Din4VgUT97mPCKlbjrmcqDkh\r\noE3Gg1vHgq0irnwy+BUjBHCTesqfnOoLdHlf41Msi3xANgUXqGldRw5nk7i5\r\ncDwlrocX7m4DzJI2gZnihcMYhOWEewEz9Xt6izdjpFlR2NJgJoW8M/puKS7H\r\nruFdI7Yr+L80YzlGjxYOYPFX+08/S4Sxfr3e/xuyfV5PibfZRs6T8ReeVrQw\r\nG+f5/XhF+nm1b+SDJDkWbtoOLy5SL6vENBPEjCJQIGT9cH5OmOCBqPBqN+JS\r\nDWHrWZLGY4+kFJ6dGL45GmJf9xUejNkLTHQ=\r\n=t5MO\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-fz-kai-z-03-regular_1.0.1_1677352005829_0.12347925087589706"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-fz-jia-gu-wen-regular",
+      "description": "甲骨文，是我国最早的文字（约公元前1500——公元前1100）。甲骨文象形的意味最为明显，是以表形为主、表意为辅的文字。甲骨文是中国文字之根，中国书法之源，篆书之祖。甲骨文 指刻写在龟甲、兽骨上的文字。主要发现于河南安阳小屯村一带的殷墟，是商代后期王室和贵族用于占卜和记事的文书，又称契文、甲骨刻辞、卜辞等。所发现的殷墟带字甲骨的数量已有16万片之多，是目前已知中国最早的成体系的文字，主要记载了殷商社会的历史和文化。殷墟所出土的是商王盘庚迁殷至纣亡近二百五十年间的遗物，它既是研究商代文化的宝贵文献。也是我国",
+      "version": "1.0.1",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "方正甲骨文"
+      ],
+      "font": {
+        "type": "free",
+        "fontClass": [
+          "方正",
+          "甲骨文"
+        ],
+        "link": "https://www.foundertype.com/index.php/FontInfo/index/id/5528",
+        "version": "Version 1.00",
+        "familyName": "FZJiaGuWen",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright(c) Beijing Founder Electronics Co.,Ltd. 北京北大方正电子有限公司",
+        "characterCount": 1432
+      },
+      "license": "unknown",
+      "gitHead": "f5d38e15236f5736c3dd2b18b60a05f230756e7d",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-fz-jia-gu-wen-regular@1.0.1",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-6wbyHAFr6Pw+SRlY1OGnpcIdbdmeeDGI1DaWGywdZTXEeyLpK4vsiziNTtSyyRKA9GvQQ4UG3FeY6PsD3Lwvfg==",
+        "shasum": "3c456df33724fb4713162d2845f64ebdcd16d59d",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-fz-jia-gu-wen-regular/-/cn-fontsource-fz-jia-gu-wen-regular-1.0.1.tgz",
+        "fileCount": 67,
+        "unpackedSize": 1208952,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEYCIQD4tp16A77/FUtDfQ3oGEbIEAz73uQnsFn1Z3YHp/FxUwIhAIkEzHo/MOhsj6H67+17REpb9sbXxWiODGp4gON0/f9+"
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+lpbACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpvxQ//eWq8cgXwOltmVJaCTRP+h2adZpIXWsbuuNGSsglPjsjLR4lw\r\nV31EDe1mpW9LTINA6pz+XxfI6dSM80iRt4d8jZ3TYLjnjlzeLjTZRIgelGe6\r\nmn6NvIv8XaUq7V/xcqOnPQCTxw48h58upGAOXEv8fFzeYvNKGA/V4lXKuL2p\r\np5lYBOMFJFQvksVC0gS6lnmEfMQyOw9WZ92nTvJAQeJ9HLzHhCFDwWhC0Ih0\r\n6XJ8qvyPzkzFOY5ovX66D3c8n35MCZ9U8QslUip/Kjyiu+TuWwILNAooE3fM\r\nu07UclTct61DnnhVBbNBJy2pU6wwnGp6XFtYiGPRhcfpRuS9GgVPYAFeXo6X\r\nA5p5vW/qAD8B5WtJg/mdTJCgW/ah16uqfxRPvrUCZmU2P2tHRLEsjXq9aDPd\r\nBpYYWiWAnDnMuO4OkYBxWFJb17wfWJOYLMr3DM9nze00OVpL+k1+0vuM9pzP\r\nUKxyyYvcjY/p3QSLXtxb+x5ZhUhMbC4HFfjlFIA7cImzDXlTy1VEdisUXxyF\r\n5f9gWPE/RsAM0UnUHpWwQ2m33qnpOmcvCMMkyn7CcCWySDCyzi+NjeSTgUOK\r\nl37CwJuKXqFx8ad/NxHfbfnhmELLoedLsOJMiM+yw2f6eVNrtTj4njvnL3pJ\r\nXkSexydH71h2MvoinpL1m3C9gNJBBGNqW+I=\r\n=ZD2Y\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-fz-jia-gu-wen-regular_1.0.1_1677351515615_0.2792213885687924"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-hong-lei-zhuo-shu-regular",
+      "description": "关于这套被我从回收站捞起来的字体简单说两句\n这套字体写于2021年6月份\n命名为《鸿雷拙书简体》\n拙的本意就是拙略，“丑”的意思，因为写完后才发现是真的丑，放在文件夹里一年半了，前几天整理文件的时候没有任何犹豫直接被我删了。\n然而前几天有个客户发了几张图给我，问我海报上面的字体会写吗。",
+      "version": "1.0.6",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "鸿雷拙书简体"
+      ],
+      "font": {
+        "type": "free",
+        "fontClass": [
+          "鸿雷",
+          "手写"
+        ],
+        "link": "https://www.maoken.com/freefonts/17746.html",
+        "version": "Version 1.000",
+        "familyName": "HongLeiZhuoShu",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright(c)HongLeiZhuoShu",
+        "characterCount": 7735
+      },
+      "license": "unknown",
+      "gitHead": "c559a0f29bae35180956b5bb8148de553c4db319",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-hong-lei-zhuo-shu-regular@1.0.6",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-Fn+lyWI/QHzKwvVJW/IRBE1JFJis/2Md+x62HPJHfFpRxWN4tRGScfoVhHGn+pb2n7RWOKS/WkSI9V6sOQwZ6w==",
+        "shasum": "378a6b546a04530c9f184a08ff852b9e8b92bb03",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-hong-lei-zhuo-shu-regular/-/cn-fontsource-hong-lei-zhuo-shu-regular-1.0.6.tgz",
+        "fileCount": 82,
+        "unpackedSize": 5596356,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEUCIBFtO/JXNxo4RWNQotqibRl2vxj+0uYh1tGFI7yX8xF4AiEAmDnYUdDeADB7XyaDEKpGnpkz5W+YWh3OtP0xonO3dGs="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+jWEACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqK4w/9EuFGT9lnTEI02jyLjGhUuJLD1Mtt5z3FAQ1LQG77pJGc6zIu\r\ndRSV66/vlJ+WVllcPadszSunuaEKG+KEMCqAp6P1PrRmBx3beWV/1sbKQ323\r\nGscGKLWzsgp+7vMF6sQ3DtMGmHPlrPMTfVaze9WcfLBKMF+V02UaQbZ9PV+Z\r\nEKFas5Z6RtSUnWj4PsrpJeDMsqLCk+muLuIOKxPDYZhNyHJggxfzb95hwDIh\r\nvYPbwa89RjcKaDYHLVDJElNowq8jC2hiovorqHoO6xGeWY/vO3Hf4BgFvqr/\r\nsz5TOg5VP7iOTrmWLklGxt3NxHPAkIIvOWClHyPfscQ/jAXpF1fM7RTbbFV4\r\nU1fYj9k/vgmUYjQgsha0xbInyIiepIDcv+WJBaCDRAbW8BFHfRzq6y3c1EP4\r\nlmKm+dMuHU7zEZwu/H4AMmqg5yPDLuC8SJjw4pmTUt54YZ5/sKthNucmEe1W\r\nHo6A0uVbUytI8Sp+CG1i1bzvIZe4Yhgng84mDgKvXIukh5tdUVHOp0Ttw6zf\r\njOM89bJ/G+sRfIZJEjw5ClDn193kcRChAKzetJd/lBDg4z9ln1t9+meV65O0\r\nCU8vkdb/jzhKJMDNufL7uD6Xf7QpYY0UYhsTBcA8CCF9fOQ7HMiAY0hzVNHj\r\nBUd6+O13iCftgqWyZOpoxx7sX1waQa4hKCc=\r\n=t85I\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-hong-lei-zhuo-shu-regular_1.0.6_1677342084405_0.4014438375696099"
+      },
+      "_hasShrinkwrap": false
+    }
+  ],
+  "paid": [],
+  "opensource": [
+    {
+      "name": "cn-fontsource-lxgw-wen-kai-screen",
+      "description": "本字体是 霞鹜文楷 的屏幕舒适阅读版本。由于原版「霞鹜文楷」Regular 字重在 PC 和 Android 屏幕上显示较细，将原版「霞鹜文楷 Bold」的字重属性改为 Regular，调整度量数据与 Android 默认字体 Roboto 相同，更适合 PC 及 Android 手机屏幕显示\nLXGWWenKaiScreen.ttf： 使用文楷完整版字库，不以其他任何字体打底。\nLXGWWenKaiScreenR.ttf： 在文楷完整版字库的基础上，使用 Roboto 打底补全缺失的字符，适合未 Roo",
+      "version": "1.0.6",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "霞鹜文楷屏幕阅读版"
+      ],
+      "font": {
+        "type": "opensource",
+        "fontClass": [
+          "霞鹜",
+          "楷书"
+        ],
+        "link": "https://github.com/lxgw/LxgwWenKai-Screen",
+        "version": "Version 1.250;January 18, 2023",
+        "familyName": "LXGW WenKai Screen",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright 2021 LXGW (https://github.com/lxgw/LxgwWenKai)\r\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+        "characterCount": 28872
+      },
+      "license": "SIL Open Font License, Version 1.1",
+      "gitHead": "c559a0f29bae35180956b5bb8148de553c4db319",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-lxgw-wen-kai-screen@1.0.6",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-bAgU4SCHQghrf2OGwR71qbe4kMQ7tyDmyMHZhlqYe7FowUaxrQ9zApDnqPOpIA6gzUVzzCBrhQ6f4xBUT2/36Q==",
+        "shasum": "a54d86cce73763d835db1da40628809c0ac975c0",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-lxgw-wen-kai-screen/-/cn-fontsource-lxgw-wen-kai-screen-1.0.6.tgz",
+        "fileCount": 384,
+        "unpackedSize": 10009628,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEQCIFLcn4aEn8V15NhjzHFGNQkNYKn+RKU7CMQYfb+XSeZAAiB5+JUKcPUQvp8rFmAPoDYxvH8kX5DBmaJdxN7pCfpYVw=="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+igkACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmre8Q//U4v5mDwUtXDcYGSwlyoaRfKAkSr8QZlkkhNO+fjlEDd4atBH\r\nAVjakZXEq8FIOo6XkN37qJlLsqTC8wXwVTqWpeVwqcTV4oNmT2rfxuLnnFSA\r\ns/wqF8P0K+OUVAXf4sbYMbyQxUyfjtyd7FTe/oE1V9rJBAk0KVEQ8o+SXiIe\r\nmB+aEOCxQzbWQnd0qNk2iBSZSEodxVEErIh9DHaPUddzr4eSSqbIlF9v7jjf\r\n6Baj5K0dXtOTef4p75vscgnFizQtgr8tbP1epdqn6oH6lwz3xnILwAoQwyXK\r\nTv1JAEY0EWzAumHJrytmpHQ7ftDystkuRXk6+/RppSNvWoS8UEi3/b1ebuuf\r\nlpn2Z6Eh5Lk4zpbbG+HXi+4TL173wv19lTn+LLdqBtDigWNDrH6++uCdipTh\r\nU2xuM6MWZwsNBqbsCllvJ1D9dFjB1BfprHf39ce541XHV7876cfDXCuCUvag\r\nh4Li5E16/cxTEGPcejTjEL+e7fMIG1vajsixMdMckTwI1eqvWtYFs3Ka14Kd\r\nOKmEmQFAW0mnzZbhgF8NiNOgDJJhEk4XtUfxPiUUk7Vvr5X6S8JZ0T+bR4V/\r\nlD4px7w98Och0iTtQB5s5SDHJ/sV0kCtMIZpg65frNqsqx9EpVmV8MJ6KKm8\r\n2FRr1QXOS7nHgSAIiAU8V19oznn80IKpYgI=\r\n=ln85\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-lxgw-wen-kai-screen_1.0.6_1677338660389_0.2926891064825934"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-yozai",
+      "description": "本字体是一款基于 Y.OzFont 的手写风格的字体。利用原字体中已有的笔划和部件，通过拼接和调整造出新字 （必要时自己用鼠标写出部件） 。目前已补全原字体中有对应繁体字的简体字、 GB 2312 范围内的所有汉字 （6763 个） 、《通用规范汉字表》范围内的所有汉字 （8105 个） ，BIG5-2003 范围内的所有汉字 （13058 个，包含台湾教育部门规定的 4808 个常用汉字） 。",
+      "version": "1.0.6",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "悠哉字体"
+      ],
+      "font": {
+        "type": "opensource",
+        "fontClass": [
+          "悠哉",
+          "手写"
+        ],
+        "link": "https://github.com/lxgw/yozai-font",
+        "version": "Version 0.85;October 1, 2020;FontCreator 13.0.0.2613 64-bit",
+        "familyName": "Yozai",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright (C) 2020 LXGW. Original Font Data Copyright (C) Y.OzVox.",
+        "characterCount": 20905
+      },
+      "license": "SIL Open Font License, Version 1.1",
+      "gitHead": "c559a0f29bae35180956b5bb8148de553c4db319",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-yozai@1.0.6",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-z68xNovy2gUrwwDfF3njJJ0LZnGaS0e+Syv7+GbHv3aOY3HDy1Z/s6cmOj2uN2zZ6EVlv3c5vSC2srhjmsvwbQ==",
+        "shasum": "bc104e90723eff69e08cff01ceb2824ac0bc37a6",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-yozai/-/cn-fontsource-yozai-1.0.6.tgz",
+        "fileCount": 263,
+        "unpackedSize": 7189474,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEUCIQCBmsBv4d3UuhHHGRYNqrMVls7rp8BUYImjbqDkrMj8tAIgJbq01HOUpcwDu5ifycGN7enNow+iEU/SlNiL4A+ugXI="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+iUtACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmqq3Q/+K8rJFZedWLjxYHBXR0xXqz8CG26tsf0DvrH3zDh2KsNG5zMJ\r\nQ44LkAyUOEflelxVfo2aSrYbaSWCdW+2+VVxXjvwlCt/TEWJSmwFyL4NnORH\r\nL3QIAkA9T/j8DSk0EiBWMiqV9Rtkpc57q6uVggmp0RMkgjz3G+OX0E3txbbf\r\nmoXpNIIWDMn6jpKpLvhLLTYmZ9maO8fIH9RkxrLpTC4ddvDcN7tAfGdNwc/i\r\n89Lx7mo/aHrkn8ZThKC1H3En7wyDHw1evjOSI8+k99ctNEkgh6HlC014NWY2\r\nNEGa4aDhPaHGfORgBG363dh/drL7axM2skTWp++skKoq4vdX0gVsLr1+afGp\r\nGs5H8XKjknxgpMHC/R6MLhKCBMifFEPhcw3xdhaZayrk6NakrzN0i1vosUj2\r\nIO2xndLbYynTh+AdpuAfRdHOJg+UidTT9rfZfzw9iyzMTXUxdtEeIxI9pfVj\r\nLUWdbg6oOT5d438ATHZ7X1LCBOWzcbIDWiAeyDp+9GATAdJb28hpl0yMSe6h\r\nO1NGDGdPRJsY1fAwOr9KzMYbG0S5n257e1ulq/wzuD4d2D+opPVIv2JoBmwu\r\n/3e5ErUzMTs/Ch8QbUhe96fKjkHrcqZ1lyKn6TQw9k8WDn3Dt8Cv/TIjNdsu\r\nirzMDuak2YG3/1wHyimUNPo/wM8aYkDglNc=\r\n=ILpr\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-yozai_1.0.6_1677337900754_0.7029004740185592"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-yozai-bold",
+      "description": "本字体是一款基于 Y.OzFont 的手写风格的字体。利用原字体中已有的笔划和部件，通过拼接和调整造出新字 （必要时自己用鼠标写出部件） 。目前已补全原字体中有对应繁体字的简体字、 GB 2312 范围内的所有汉字 （6763 个） 、《通用规范汉字表》范围内的所有汉字 （8105 个） ，BIG5-2003 范围内的所有汉字 （13058 个，包含台湾教育部门规定的 4808 个常用汉字） 。",
+      "version": "1.0.7",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "悠哉字体"
+      ],
+      "font": {
+        "type": "opensource",
+        "fontClass": [
+          "悠哉",
+          "手写"
+        ],
+        "link": "https://github.com/lxgw/yozai-font",
+        "version": "Version 0.85;October 1, 2020;FontCreator 13.0.0.2613 64-bit",
+        "familyName": "Yozai",
+        "subfamilyName": "Bold",
+        "copyright": "Copyright (C) 2020 LXGW. Original Font Data Copyright (C) Y.OzVox.",
+        "characterCount": 20905
+      },
+      "license": "SIL Open Font License, Version 1.1",
+      "gitHead": "c559a0f29bae35180956b5bb8148de553c4db319",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-yozai-bold@1.0.7",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-CuHvBlzo5LIoMI6Ig7PQpbBKD62cX8Ap3gMZWQ8JPrDR9712QDbvdLv9DlsA9e2vsTiGAUmHxJSUFNnn7loDEw==",
+        "shasum": "22f9d19babb59ce2c9316b8ac90caf7c0efb664f",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-yozai-bold/-/cn-fontsource-yozai-bold-1.0.7.tgz",
+        "fileCount": 263,
+        "unpackedSize": 7106938,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEUCIQD4YQotKOEtWRC3fnoVYO3kghqeabwXJHTZ2jpE3whGtwIga8FsfhaABZN0wliVmkMxwC31iDZnsVcQN9Jzm4IlkYE="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+jguACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpMRRAAgdfa1Eutak+5kAEsZ4pbKuZ+E9EisW4hRs3WGmXigiTrmaGU\r\nzQhc+8JfDt4sFzCiWIA7uQw0diZ5jxMDg5hIco9vm95HDziRTa0IvDaCLMP8\r\nyeLwHca1dmKY72lX3bTm2JBYfz1iQ46/LtHj/6GwAvppNNqQSQl36JI0Glh/\r\nZt+noP95LMxSABR91sUEFf/lCVuuyDyhZLhIbwlwCCnI1qW3fBs81UDI6hLK\r\n6qKFdcKjPOV973quxGBNtY7ZJUvGoXv5yCYw8y7Jp3NuLx+lCKrxyyUKaxdO\r\nSLde9wZUWZlw781P4XSl3gtRpVSnUloFTpVAGz3TV+8OJpETz5CQhVf3JZ1c\r\ndNMOU3FwB1LcAmPgszLcFiwiDNTnX1cy5LnUN6igv6W8oaT3WzOEtkP2h7zp\r\nXV+SIkiOD90dALYGp0icCMH2lFLV9J6LZqP9khkgoAAGsVwiz/lnwg8IrNFG\r\nBsR0UMuqKZsEE9SeOz18UEeoOgeMGPoxC6DsBtkWyuGFMgsB0RKoJ3eeZfyP\r\nT4p6OtTbXiJqTimbIvrmvzQYrE1jq4Dqm3IOmInMw3UVCjVg5Pzrbev39KDz\r\nSb/HYI87KnDWfWwiWi9/BPrGiFO4X7IV/HACledkpNjQVuR4Pszpn4leYDJI\r\n8nnvw00S4+LRYIuMARXKQhsqaGZ7BqE5FYI=\r\n=HdFE\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-yozai-bold_1.0.7_1677342766364_0.32535990985784613"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-yozai-medium",
+      "description": "本字体是一款基于 Y.OzFont 的手写风格的字体。利用原字体中已有的笔划和部件，通过拼接和调整造出新字 （必要时自己用鼠标写出部件） 。目前已补全原字体中有对应繁体字的简体字、 GB 2312 范围内的所有汉字 （6763 个） 、《通用规范汉字表》范围内的所有汉字 （8105 个） ，BIG5-2003 范围内的所有汉字 （13058 个，包含台湾教育部门规定的 4808 个常用汉字） 。",
+      "version": "1.0.6",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "悠哉字体"
+      ],
+      "font": {
+        "type": "opensource",
+        "fontClass": [
+          "悠哉",
+          "手写"
+        ],
+        "link": "https://github.com/lxgw/yozai-font",
+        "version": "Version 0.85;October 1, 2020;FontCreator 13.0.0.2613 64-bit",
+        "familyName": "Yozai Medium",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright (C) 2020 LXGW. Original Font Data Copyright (C) Y.OzVox.",
+        "characterCount": 20905
+      },
+      "license": "SIL Open Font License, Version 1.1",
+      "gitHead": "c559a0f29bae35180956b5bb8148de553c4db319",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-yozai-medium@1.0.6",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-6czCz+KBj5D8eH1bPxnf1bcjpxoS2M31Arv1G7BNOV7TIvS5vlfTr18H8tEvUwPQG17rmQ+EqFVM98xO5jYiZA==",
+        "shasum": "5ea050edb00385ba5a6166f20b19336be51ded6e",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-yozai-medium/-/cn-fontsource-yozai-medium-1.0.6.tgz",
+        "fileCount": 263,
+        "unpackedSize": 7116263,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEUCIFkmoqm2IVXim/c15dDGQ8PkUPZAS0vVaJ05eFFcVKwMAiEAzC6Pg57Y6uu8D5p7BZdfo/3H/lmcJPD4Enjnim47yT8="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+iTpACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmqf9A//bFHiC2oWAJ9iIxpt7YaxNEdR2gU48jv9RiJah9zpXS1wWNQv\r\nYX31LZ7Df36xcSwwXFf0MIbCkt38M0a7mpPDDigPwiCMqNMjiHLSSwv9w66o\r\n/DCurWwBGG8CjhMh4P5jUmZAvnuoImM81oRf1iU0gPAYkfCGJVhU+hM+ahL8\r\nkIpnCw039OFbdSvvalOSCo79uHrKYxFpPB2dKFv19q9oHqgH7hmTLoRJHucD\r\naB63EN0WNCJQnQFqtLzGxM/VjIavHzx44RwQhmDy/gOv8jMyLPxBvoS/GOZ8\r\nwG2+V+R9yl9VXYmTMoFXW3c9Do7xPz96aAcAczPGgp4zg7o8oNhGwnh5ZnBm\r\ndQ5y/pH/AaDZfnDdBN2fnbrcRN21xY9xxnHuTOfu+oBKWFUtpYof3atnVwY8\r\nfC6jB6hN7r6wv4DALH9OA9KqQj4WP+yckPesuODyC9kbTnSvwyy2uvbVovTS\r\nCknp8RXBAiSnwymiY2B/i0WG+y938PWMp/UolWFVFCVaT4ADLGOCgGE9mdYq\r\nJB6aZAtl0NhWTkPRHsgiptdhitLbLo23RBBqn12dHm/UyG3VDPFuEhIY3Ek3\r\nnikL8wGkhrFxG5u4BDowgvTw1BSftDG+GBx85xTS2Hf0WbFT8BYfJKVpHBiD\r\nxOgySJ2/4SRM9DL+HiACZ7iBQV2mqNUsfkw=\r\n=NgLx\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-yozai-medium_1.0.6_1677337832769_0.7635067631342676"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-yozai-regular",
+      "description": "本字体是一款基于 Y.OzFont 的手写风格的字体。利用原字体中已有的笔划和部件，通过拼接和调整造出新字 （必要时自己用鼠标写出部件） 。目前已补全原字体中有对应繁体字的简体字、 GB 2312 范围内的所有汉字 （6763 个） 、《通用规范汉字表》范围内的所有汉字 （8105 个） ，BIG5-2003 范围内的所有汉字 （13058 个，包含台湾教育部门规定的 4808 个常用汉字） 。",
+      "version": "1.0.7",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "悠哉字体"
+      ],
+      "font": {
+        "type": "opensource",
+        "fontClass": [
+          "悠哉",
+          "手写"
+        ],
+        "link": "https://github.com/lxgw/yozai-font",
+        "version": "Version 0.85;October 1, 2020;FontCreator 13.0.0.2613 64-bit",
+        "familyName": "Yozai",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright (C) 2020 LXGW. Original Font Data Copyright (C) Y.OzVox.",
+        "characterCount": 20905
+      },
+      "license": "SIL Open Font License, Version 1.1",
+      "gitHead": "c559a0f29bae35180956b5bb8148de553c4db319",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-yozai-regular@1.0.7",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-ig665Fo1741QVOn7pSLSelTorCkNl+oF2BMVR4lXUx4CO6P64R9ntCRDjQSnGWU6nnVgBVGr911PSj1pwvKbJg==",
+        "shasum": "3913ef97b10a3c52f44c2c68c55fa41b4bb471b8",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-yozai-regular/-/cn-fontsource-yozai-regular-1.0.7.tgz",
+        "fileCount": 263,
+        "unpackedSize": 7182233,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEYCIQDqvnSixEP73XF3Wv3P8TuvDG2n23yRfW8WmsBB6OLYwwIhAKeY8xFUULICg7GHjj7SOU4x4gTrLXJBPSfIUSaCQXjA"
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+jjgACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmpxnw/+JoyQuyPsjlAh36DDUtNailFZjvMAuY0hneR55badkouliFg4\r\n/7AuWJFDQh3HIDXRupOTSmYUdFCxaJ4KxVvvxCAVHL2AImlGkyNNMxTwRa4/\r\nFVqXCyEY5bfSZpM6LBqiGJyK8RXpthRFsXgl7DcmUTeGjBAENJSbt6QJZ9Iu\r\nbpSAJnItinxETQEIKW+pRnwvfaER9gwpmNOOP/Z8hnZ8A1ii4x8smA9bXvNg\r\nYU1R716OYHDs6DH4xO9jqmM3+gkkCyKuFhw1gabRi9wB3UHUh20vv8lbW9sz\r\nzGsceYt/7qKCo/EOiw6fkB/6qKaTSxynecQ3NbhhAKlgPrQnwKter1X4PfaC\r\nr61ZSPpEEXPxBb/6kU4bJY6OGuQSoQCNh9ViCgMnfmMOyYzYvM/M6fIU5goO\r\nDObzXBdSWP7tDjGRi2tbmZxG1ohn9JfQIWFDaIAsNi8XxjXWbUEUFI2JsWoK\r\nNDXXaPSYZVxPtpFbVT/UYlIj3EE8LpGuxi70j2Ut2eJmzS2aXAGmvKhDSGyD\r\nD99T0IJGYR8UsHYNb/B2Vv3rp/9UHrOzvLdzunP6p58z4iwnBQz/FL1gFKxK\r\n4SKslFw2b9m+QSHhQlWNGMI1El9UJrf05XxtOjMi8Gp2OngaZAmHNWL1h4oB\r\noTLjrn4r7fcL3U7VUI+15nWgcCYZo7o8q6M=\r\n=mDj5\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-yozai-regular_1.0.7_1677342943988_0.47871774348733"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-yozai-light",
+      "description": "本字体是一款基于 Y.OzFont 的手写风格的字体。利用原字体中已有的笔划和部件，通过拼接和调整造出新字 （必要时自己用鼠标写出部件） 。目前已补全原字体中有对应繁体字的简体字、 GB 2312 范围内的所有汉字 （6763 个） 、《通用规范汉字表》范围内的所有汉字 （8105 个） ，BIG5-2003 范围内的所有汉字 （13058 个，包含台湾教育部门规定的 4808 个常用汉字） 。",
+      "version": "1.0.6",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "悠哉字体"
+      ],
+      "font": {
+        "type": "opensource",
+        "fontClass": [
+          "悠哉",
+          "手写"
+        ],
+        "link": "https://github.com/lxgw/yozai-font",
+        "version": "Version 0.85;October 1, 2020;FontCreator 13.0.0.2613 64-bit",
+        "familyName": "Yozai Light",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright (C) 2020 LXGW. Original Font Data Copyright (C) Y.OzVox.",
+        "characterCount": 20905
+      },
+      "license": "SIL Open Font License, Version 1.1",
+      "gitHead": "c559a0f29bae35180956b5bb8148de553c4db319",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-yozai-light@1.0.6",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-hZJqFfbnY/eXCnQpuCJ436MyVdGCLH3McXTxp351Sj72k5CXwvF99KVjtsJH1evghAU0rntBWp5EaQOy21zqnQ==",
+        "shasum": "b7005bae13ec8d571b902235da61564aab67f0d7",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-yozai-light/-/cn-fontsource-yozai-light-1.0.6.tgz",
+        "fileCount": 263,
+        "unpackedSize": 7043893,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEQCIGALuLtnUi9+j0AS6/vxzMqqfLrlM5yGm++WriTm6otFAiB3jrBCrK+8b3WF65OoMyUnH9dAksrv6kl5N+9+4VUqIQ=="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+iSoACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqWMw//SswoSQQZiDsaQk1ytkjYBI3Y2II9S2ceH+Iyq1bTVnZp3fFs\r\n3gAl1s2+LdMqQxOXbibqkz2eYscXdxY+uQ7VaaklHiclkS8eWAiNDnSNPEzC\r\nAoPUDJhWCKKDiUdeojeQSAMYxSL5nKBu0l76nAHses8qhMoc+6Td3d6bZY4G\r\nBW2YfiexlP8f/eCx431XTjPgKpR2oXylKWTLnRJVbMAaQth7U+LmCRxHK6qh\r\nQid2p5++PzFSE/oe5BwvKyBtUYwhdJm12wjiPocNTlE3Cn1y/sAstv4yuTw8\r\nKfNOfnzTVhocPvgIq4iCbu09Jch8xudML/z+Qmm+/TsA27CV8sb4Kp2tCz02\r\nFSai794yt3PCBvigiapWO9bJveRX6mJGNBjCfL5Hse/tQrWolX/YFqO6kNpC\r\nnyXsC1xq1TyhFe6Qyn0XOagfYI5RUHP6R/poC/Uj0uLGd4jWdEuc+DqSdJy/\r\nwbda6binSyME4MoUCSSncj08y+yRKQLzw4MvhyaJU43fZ5wl6l/w+GyZfzdy\r\nJNscWti8gDzPB8ED2SaA7BLTUiAmSuJHidyCPi+q8LrEO/GFfl7tgRjP6242\r\nuBC4IbW2W/7Kv9u9x4DoUdu6FrwjmvaPne8K8Bb6Ynz2GvnJ6FzFyFIQ6VoC\r\nQ/h0cMa7l92EkHhjOG2FlkLsAqNN99ltkoI=\r\n=gShs\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-yozai-light_1.0.6_1677337767646_0.27952625199883374"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-yozai-light-regular",
+      "description": "本字体是一款基于 Y.OzFont 的手写风格的字体。利用原字体中已有的笔划和部件，通过拼接和调整造出新字 （必要时自己用鼠标写出部件） 。目前已补全原字体中有对应繁体字的简体字、 GB 2312 范围内的所有汉字 （6763 个） 、《通用规范汉字表》范围内的所有汉字 （8105 个） ，BIG5-2003 范围内的所有汉字 （13058 个，包含台湾教育部门规定的 4808 个常用汉字） 。",
+      "version": "1.0.7",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "悠哉字体"
+      ],
+      "font": {
+        "type": "opensource",
+        "fontClass": [
+          "悠哉",
+          "手写"
+        ],
+        "link": "https://github.com/lxgw/yozai-font",
+        "version": "Version 0.85;October 1, 2020;FontCreator 13.0.0.2613 64-bit",
+        "familyName": "Yozai Light",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright (C) 2020 LXGW. Original Font Data Copyright (C) Y.OzVox.",
+        "characterCount": 20905
+      },
+      "license": "SIL Open Font License, Version 1.1",
+      "gitHead": "c559a0f29bae35180956b5bb8148de553c4db319",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-yozai-light-regular@1.0.7",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-6wiz1t/65jlwXfRxOZF2SBNFkrE9tkw+YxOLPP54wQW07c8derPoJSGUIPJ8of9SwH5ycOIWQ/4V9SyGJagEHA==",
+        "shasum": "e5672e9b3b2220d822e23c81dcd208e5a0ca3a2d",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-yozai-light-regular/-/cn-fontsource-yozai-light-regular-1.0.7.tgz",
+        "fileCount": 263,
+        "unpackedSize": 7047790,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEUCIFWXCSvlL1fdRbA+P3D4UiBarM+TQF0uz2cSDyLrYchNAiEAvWsphx4pTEKuAWKtR5td+7FGMkoPuaf6iOM+8Meeth8="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+jhqACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmp6jw/9Edbpbdh0BPc4kWDg2H+lRg5qkBtBY8l5c08lKY1H/rQeTIdt\r\n/XlveMFQW3Hpalm7ptV5fGEnsPfQ9JOVRihEvcCFnzXZk63603hQCM61xGMR\r\ne0Iq8J0xvI4i4X12f4LnmFU2HCjJ2Vx6bfx2xgWAo6SrAElB9BMG6L4gwKJX\r\n7t0emrY2L+XBxmKP6fmlb8JR2ih5KSNQpLTLeBDQ5Z4IfGvVY5RRR580RYnU\r\nDXn1y2nHQ2uW7iGyxWayQVBtlq1dvV9UQPdlm/zS0X9rjUxngjC/uFgpV57H\r\nrOz71EohNTiN0m61503RHcQBtETV4Va+Fz5b0rtWc9MS/0AVvwNGwIXESj21\r\nsN93jC5rbQF4Wk154Q5UuPatPVcV4pEgPsDYWbU6IiI7k0d+lMvEMAPnsZmd\r\nfa5eVuUJPk6M96Hop4ayzr+hc5LJ9LHGbFkcwYrB/8Le6IJhKJAuidjiuPv+\r\n8jZJbio6SbbH55U9fc1slH5pG/q7vIq+DGN4mLOoBtziXbaWirDf2dVnyXhf\r\nBz2PewgYHKJooWm1UtQKIGA2/k0agW+elwkVq0nLcLe/hwPclLIbHeVhgqtQ\r\nqwEIjsePXgd4WVdVCehjUwnBSTefH00a8kB8wWYg84fcW9cMZIcWvrjGDlR/\r\nL9ICNwM1rmBO3VKf+SkTnFVkRXTJDOJTT18=\r\n=KsPK\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-yozai-light-regular_1.0.7_1677342825760_0.794650525559"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-yozai-medium-regular",
+      "description": "本字体是一款基于 Y.OzFont 的手写风格的字体。利用原字体中已有的笔划和部件，通过拼接和调整造出新字 （必要时自己用鼠标写出部件） 。目前已补全原字体中有对应繁体字的简体字、 GB 2312 范围内的所有汉字 （6763 个） 、《通用规范汉字表》范围内的所有汉字 （8105 个） ，BIG5-2003 范围内的所有汉字 （13058 个，包含台湾教育部门规定的 4808 个常用汉字） 。",
+      "version": "1.0.7",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "悠哉字体"
+      ],
+      "font": {
+        "type": "opensource",
+        "fontClass": [
+          "悠哉",
+          "手写"
+        ],
+        "link": "https://github.com/lxgw/yozai-font",
+        "version": "Version 0.85;October 1, 2020;FontCreator 13.0.0.2613 64-bit",
+        "familyName": "Yozai Medium",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright (C) 2020 LXGW. Original Font Data Copyright (C) Y.OzVox.",
+        "characterCount": 20905
+      },
+      "license": "SIL Open Font License, Version 1.1",
+      "gitHead": "c559a0f29bae35180956b5bb8148de553c4db319",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-yozai-medium-regular@1.0.7",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-Ri+VOw+nxkq4GwMk9VmNSM4fHjY5G+ppWijLdZjaNZPkKawM3Dmp2t9sVRPcQgm78gSb9i+29eU1UKEqZY1yLw==",
+        "shasum": "67278481191bdfa90d9741babf4157aa2ce4f217",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-yozai-medium-regular/-/cn-fontsource-yozai-medium-regular-1.0.7.tgz",
+        "fileCount": 263,
+        "unpackedSize": 7100258,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEUCIQCuVG+Y0URT/+wOtYGr5Oaa9jR5/Q2Yu/Wa/V4VNy+mSAIgLyPrQhzet/3mQab9sRAUSdBDgB4umknJ0l7dGN7S2N8="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+jilACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmp0SBAAoGngxooYN/U1IkmjQ01wEPIe++Zxj4xyLq7v52KXzHhfZOGY\r\nVx/bc1UXjFNc1CAu+Iiemyuv139fmUifODhJkGcn/rDFWnT993naZsfhRGfE\r\n7szs7umb9lrY1ih07eNb3pxazcJ5ku8KJNYDE7pHNNZ1DfLoowRryG+55DUg\r\ngDII0D8y2OsONLbU1Rt14YvVYhsEg2qy7ojVggzFca6LaggVunpaFyEVwe14\r\n3019s7HzzKtc5xo+RaPRynA+/RxVOwOS8uIXQuCny5ABLNqUdlgwLzopWvz1\r\nuASVaJZkvjcp8TRRgU1f4SgCK9Ng4GUARcdpzLONDrYMolxlNHWao6UeV08L\r\njDuGRHMmcqulXIgpyWSmVnwNfodQGtwGyfw+XMxIvVYVE/1+9eU8eCF8MmmX\r\nQW3kqU5HtQM1MeKXXzwWtZyUFXUYNpWZzdgqdQ2DT4tRu5eq4FR1PlkeO6m7\r\n05aHshpj68uQiZ6yi4TCyYaS2TleP2+JtF7jqF0D5wjpLI1VHklY84sLJ2l1\r\nbmUL8YwMoBqiyUISpEKRMv/87fevQzxCUZCPP73jVsY6uB62i6GkSwpLWrjO\r\nZyqOIfhp6zLd7cLD6yrQ9kj+rTudv/86oVMJr7mstLaBvTDO8r8pcaVb7Xtp\r\nUeRXYz9OA3I8gi20hxxSl4jWTP40Wap8wSA=\r\n=Zkzh\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-yozai-medium-regular_1.0.7_1677342884586_0.3509736758133748"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-lxgw-wen-kai-gb-screen",
+      "description": "本字体是 霞鹜文楷 的屏幕舒适阅读版本。由于原版「霞鹜文楷」Regular 字重在 PC 和 Android 屏幕上显示较细，将原版「霞鹜文楷 Bold」的字重属性改为 Regular，调整度量数据与 Android 默认字体 Roboto 相同，更适合 PC 及 Android 手机屏幕显示\nLXGWWenKaiScreen.ttf： 使用文楷完整版字库，不以其他任何字体打底。\nLXGWWenKaiScreenR.ttf： 在文楷完整版字库的基础上，使用 Roboto 打底补全缺失的字符，适合未 Roo",
+      "version": "1.0.6",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "霞鹜文楷屏幕阅读版"
+      ],
+      "font": {
+        "type": "opensource",
+        "fontClass": [
+          "霞鹜",
+          "楷书"
+        ],
+        "link": "https://github.com/lxgw/LxgwWenKai-Screen",
+        "version": "Version 1.250;January 18, 2023",
+        "familyName": "LXGW WenKai GB Screen",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright 2021 LXGW (https://github.com/lxgw/LxgwWenKai)\r\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+        "characterCount": 28872
+      },
+      "license": "SIL Open Font License, Version 1.1",
+      "gitHead": "c559a0f29bae35180956b5bb8148de553c4db319",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-lxgw-wen-kai-gb-screen@1.0.6",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-NBHrehcM9K16bUHOERYyYAvVHfOz7bMbpBxU5Kh3/JAgP+XBlgVyTM/JYcF1Ji6Xk++rk33UvELcFmaUoJYvkA==",
+        "shasum": "6d3fcdb48e766f6da85e5acf23d9dc3f297563d5",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-lxgw-wen-kai-gb-screen/-/cn-fontsource-lxgw-wen-kai-gb-screen-1.0.6.tgz",
+        "fileCount": 384,
+        "unpackedSize": 10040132,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEQCIHxhtPM5BH94gVwH2vJNUIxbmPJqHdH7cgtTanmuKif6AiBGw1ThsOLTJ1QdULfk59ta+0A8UIjdcdMVih0UAjvEYQ=="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+ieIACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpM+g/7BIkgsCpSGTzUGgRDI4rp/MAVyvWrJHW0ioAKDV8kgY554KMS\r\njq00Uf0+lT/VP1SX9UQ7qeaIkerzFCXQ87k315PFrJGFo02tNnngC9XVUryS\r\nxh+MYCgHg51p2OU6ehGyM4qIBWAZt5xonqSxH1f0LzBBTMa25l8wjf3SNfyJ\r\ntGLj//hpnhVHoMe/tOT2B5/0rl3DOXV7VU12LtUYedJ93tucrK/iVbsztAnZ\r\nUTFeMrKWGvzY6OkE4URdW9+AM+tYy+6q0AHOeYaCItgG7d1zSpImSJvg2K9t\r\nkt8qpzcg8VKaA10fPWobvDAHMlnrFbgjK7JWnHVCP7qlOcdgnMXONwWaeIEn\r\nLHA5xtlwIWjWORYJElv1oXgyeGxX1NGCsN1EN1FBZZ3/zYfUlYojj9T7A+32\r\nKAXvI/o2KSAW8q6vae65oiT1KIYLjho/jgXcw/nW8YDR+JY++fW0yABg9QAd\r\nv00ZtHu9kkOsZdTPWVtshTpAnViO45YJUwU192EtBJaKnpyjUDzu4TRlceWO\r\nSvjdU4uzUIabH9YHmvl9vBmceX13ecNlGJdRiGjfSgyJa10OrtsGoSKQHiom\r\ngIJZeF4Oq6w0Cl92PEtGEP0fQp1+eJCl5i2ezPoNpw6LVj11ueU9AkLp6/6E\r\nDu3am1EtRr9dtGBFBqvnztIfjQtWwepag24=\r\n=H1+T\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-lxgw-wen-kai-gb-screen_1.0.6_1677338504022_0.20919659841246352"
+      },
+      "_hasShrinkwrap": false
+    }
+  ]
+}
