@@ -94,4 +94,6 @@ let newReadme = readme.replace(/<!--@LIST-->[\s\S]*$/g,'<!--@LIST-->\n'+str);
 console.log(newReadme);
 fs.writeFileSync(path.join(__dirname,'../README.md'),newReadme,'utf8');
 
+fs.writeFileSync(path.join(__dirname,'../cn-fontsource-list.json'),JSON.stringify({free,paid,opensource},null,2),'utf8');
+
 })();
