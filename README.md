@@ -1,83 +1,77 @@
+## 适用于浏览器加载的汉字字体集
 
-## 适用于浏览器加载的免费字体集
-
-- 资源来源于互联网，仅包含免费可商用字体集
 - 浏览器使用个性化中文字体较为麻烦，巨大的字体库使得网站加载速度无法忍受，虽然有些网站提供了在线转换的 API，但无法独立部署和兼容性性能等都存在问题。
-- 本项目期望尽可能提升中文字库加载速度，以达成中文字库的可用性
+- 本项目通过分段字库方式实现汉字字库的按需加载，期望尽可能提升中文字库加载速度，以达成中文字库在 WEB 端的可用性。
+- 我们为分段 WEB 字体直接生成了 css 文件，可通过 CDN 直接引用或者下载包到自己的项目中，详情请参阅每个字体包的说明。
+- 本项目仅搜录使用 WEB 中文字体工具制作的可用于 WEB 直接显示的字体集，所有内容内容由网友自行制作并发布到 NPM 仓库。
 
-## 说明
-  本仓库由原有的仓库 https://github.com/wc-one/cn-font/ 仓库迁移而来。
-  主要计划更新:
-  1. 完善原有字体生成工具
-  2. 将原字体发布点 NPM: @wcone-font/xxx 更改为一级 NPM 文件名: cn-fontsource-xxxx，以便大家更方便发布字体和进行搜索搜录
-  3. 字体工具包发布时自动生成样例文件。
-  4. ... 其他，希望能有更多的免费中文字体资源，欢迎更多建议。
+### ！！非常感谢提供免费和开源的字体作者，让我们能够轻松无忧的使用和体会汉字之美。
+
+### ！！感谢所有字体的作者，让我们看到更精彩多样的汉字。
+
+### ！！支持商业化字体，付出有了回报，才能有更多。
 
 ## 正在迁移和修改中.....稍等
 
-## ！！！请不要发布具有商业版权的字体库，否则将可能对使用者带来不必要的风险。
+## 技术方案和更新
 
+本仓库由原有的仓库 https://github.com/wc-one/cn-font/ 仓库迁移而来，更新以下内容：
 
-## 优化
+- 升级和完善了字体制作工具，开放给大家自行使用
+- 升级了 L1 和 L2 字库，使用国家字库分级标准。
+- L1 级更改为 128 字分包,L2 级更改为 32 字分包,L3 级改为 8 字分包
+- L1 和 L2 支持繁体
+- 优化了生成的css的大小
+- 支持本地字库优先引入
+- 字体发布到 NPM 的包名，从原有 NPM 组织二级名称，调整到以**cn-fontsource-**为前缀的全名，便于大家自行发布和自动化收录
 
-> 本项目目前使用的 L1,L2 汉字列表尚有优化空间，目前列表是从互联网搜索摘录，感觉和当前网络中汉字使用频率并非完全吻合。
-> 理想做法应通过爬虫爬取常用网站，统计出当前使用频率最高的汉字集合，取前 3000-4000 个。有条件的朋友可以尝试帮助我们完善这个列表。
-
-
-
-### 技术和方案
-
-- 本项目将汉字根据常用情况分为 L1, L2, L3 三级,参考: L1.txt L2.txt 文件
-- 通过分离字库方式实现汉字的分段按需加载
-- L1 级汉字被分割为 256 个汉字一个文件, 大约 1000 个常用汉字左右
-- L2 级汉字被分割为 128 个汉字一个文件, 大约 2500 个常用字
-- L3 级汉字为字库中的其他部分，按照 32 个汉字一个文件进行分割，以提升非常用汉字的加载速度。
-- 将字库转换为 woff2 格式，进行字库压缩
-
-### 使用
+## 使用
 
 - 可通过 npm 本地安装字体包
-- 也可直接使用 jsdelivr 直接 CDN 加载, 参见具体字体包
+- 也可直接使用 jsdelivr 直接 CDN 加载, 参见具体字体包相关说明。
 
-### 推荐收录新字体
+## 字体制作和发布
+### 安装工具软件
 
-- 字体必须为免费商用版本
-- 查找是否已经存在相同字体
-- 提交 ISSUES, 参考 fonts 目录下文件格式提交描述 JSON
-- 确保 download 字段可用, 如某些网站无固定下载路径，可先下载后上传到 github 自己账户的项目中
-- 下载路径的源字体为 TTF 或者 OTF 格式
-- 下载路径可以是压缩包，请检查压缩包内的路径，并正确填写 fontFile 字段
-- 查看来源字体压缩包，如有版权相关附加文件信息，请正确添加到 extraFiles 字段
-- 确保 link 字段为有效来源 URL
-
-#### 样例
-
+### 创建和发布字体
+1. 创建字体目录
+2. 在字体目录下建立font.json5, 按以下样例填写（以 **悠哉字体** 为例）
 ```json
-{
-  "name": "字体圈欣意吉祥宋",
-  "description": "字体圈欣意吉祥宋",
-  "version": "1.0.26",
-  "fontFile": "ZiTiQuanXinYiJiXiangSong/ZiTiQuanXinYiJiXiangSong-2.ttf",
-  "extraFiles": [
-    "ZiTiQuanXinYiJiXiangSong/字体圈欣意吉祥宋授权证书.jpg",
-    "ZiTiQuanXinYiJiXiangSong/《吉祥宋》字体必读声明及使用范畴.txt"
-  ],
-  "download": "https://download.fastgit.org/wc-one/cn-font/releases/download/init/ZiTiQuanXinYiJiXiangSong.zip",
-  "link": "https://www.fonts.net.cn/font-39072283843.html",
-  "license": "free"
+{    
+  // 字体名称，按实际填写
+  "name": "悠哉字体", 
+  // 扩展字段，如同名字体在提交NPM仓库已经存在被其他人占用，可填写此字段进行区分，只能填写英文。
+  "ext":"", 
+  //描述信息
+  "description": "本字体是一款基于 Y.OzFont 的手写风格的字体。利用原字体中已有的笔划和部件，通过拼接和调整造出新字 （必要时自己用鼠标写出部件） 。目前已补全原字体中有对应繁体字的简体字、 GB 2312 范围内的所有汉字 （6763 个） 、《通用规范汉字表》范围内的所有汉字 （8105 个） ，BIG5-2003 范围内的所有汉字 （13058 个，包含台湾教育部门规定的 4808 个常用汉字）", 
+  // 类型, 可选: free-免费字体, opensource-开源字体, paid-商业字体
+  "type":"opensource", 
+  // 版本
+  "version": "1.0.10", 
+  // 链接
+  "link": "https://github.com/lxgw/yozai-font", 
+  // 授权
+  "license": "SIL Open Font License, Version 1.1"
 }
 ```
+3. 下载字体文件到此目录, 当前支持ttf和otf格式。
+4. 如同一字体有多个字重，请一并下载到此目录。
+5. 请将其他必要文件一并拷贝到此目录, 可能包括授权文件、LICENSE、样例等。
 
-##### 觉得有用请随手加星
 
-### 字体列表
 
-- _思源宋体-中日韩简繁_ (44748 字): [字体包](https://www.npmjs.com/package/@wc1font/source-han-serif-sc-vf) [来源网站](https://github.com/adobe-fonts/source-han-serif)
-- _思源宋体-简_ (30897 字): [字体包](https://www.npmjs.com/package/@wc1font/source-han-serif-cn-vf) [来源网站](https://github.com/adobe-fonts/source-han-serif)
-- _思源黑体-简_ (30897 字): [字体包](https://www.npmjs.com/package/@wc1font/source-han-serif-cn-vf) [来源网站](https://github.com/adobe-fonts/source-han-serif)
-- _思源黑体-中日韩简繁_ (30897 字): [字体包](https://www.npmjs.com/package/@wc1font/source-han-serif-cn-vf) [来源网站](https://github.com/adobe-fonts/source-han-sans)
-- _字体圈欣意吉祥宋_ (7238 字): [字体包](https://www.npmjs.com/package/@wc1font/fontquan-xin-yi-ji-xiang-song) [来源网站](https://www.fonts.net.cn/font-39072283843.html)
-- _鸿雷板书简体_ (6996 字): [字体包](https://www.npmjs.com/package/@wc1font/honglei-sim) [来源网站](https://www.fonts.net.cn/font-38386302876.html)
+## 字体列表
 
-- _演示秋鸿楷_ (6971字): [字体包](https://www.npmjs.com/package/@wc1font/slideqiuhong) [来源网站](https://www.fonts.net.cn/font-38836352052.html)
-- _方正楷体简体_ (8098字): [字体包](https://www.npmjs.com/package/@wc1font/fz-kai-z-03-s) [来源网站](https://www.fonts.net.cn/font-31561199974.html)
+### !!! 以下字体列表为通过 NPM 进行自动索引，内容均为网友自行提交，请使用者自行鉴别，谨防造成不必要的麻烦。使用商业字体请尊重版权和他人劳动成果。
+
+### 开源字体
+
+### 免费字体
+
+### 商业字体
+
+### 开源和免费字体参考了以下项目，感谢维护者的努力
+
+- https://github.com/wordshub/free-font
+- https://drxie.github.io/OSFCC/
+- https://github.com/wordshub/free-font
