@@ -750,6 +750,75 @@
       "_hasShrinkwrap": false
     },
     {
+      "name": "cn-fontsource-slidefu-regular",
+      "description": "80岁纪国才老先生亲手写的独具风格佛系字体",
+      "version": "1.0.3",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "演示佛系体"
+      ],
+      "font": {
+        "name": "演示佛系体",
+        "type": "free",
+        "fontClass": [
+          "演示",
+          "手写"
+        ],
+        "link": "https://www.maoken.com/freefonts/3398.html",
+        "version": "Version 1.000",
+        "familyName": "Slidefu",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright © 2019 by keynoteart x QiuYePPT. All rights reserved.",
+        "characterCount": 6954
+      },
+      "license": "unknown",
+      "gitHead": "a4e4dcaf6090770d75038edd6e58bf8a83e0dcac",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-slidefu-regular@1.0.3",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-ktLxpYIszZ36v+ebcU150xHUGRe4N0EyVVVjKBNHSFDJbK+kl1/gz6TJiRsvwHGbmLcVk7F/nvhe2hnW1mWVTA==",
+        "shasum": "27242415ea0925bbbe07bdea5c39e1671067bc6f",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-slidefu-regular/-/cn-fontsource-slidefu-regular-1.0.3.tgz",
+        "fileCount": 71,
+        "unpackedSize": 7472273,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEQCIHW5vAsE8z+9vRVLNyYmarzxM94QMoBw/JklW/CqIc9SAiAM4Oc+zpWJckb8BCRnQ3t9gx4mKvH+ydbM/infUj7pOA=="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+sWcACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrAvw//bDmtD9ATzt0b8j/hFZQ8s0170KvJoHZBLrKEK465+cprCenB\r\nFaJ2GghE8ThINCWziNlk97zYBH1kU7apxjNk3l0xacRYTg8b09amcgkvMR4m\r\ngZmMMtsrnWvzwyRm5NhEQN67iOTN/kw6Nwqi4/RiqhWvFXQMC5Ezf+zzYyYB\r\nE2X1dkBXQc0eSY6WI8gegDEt0YNeOwK5K85mv0QJkQXYDH62bFlHc+dZGsC5\r\nVuiUqI/yZH8taKX0w010eqsu7hT64e3P/3J3sXnEzhFmw/D+mfs4p/X71ynp\r\n1beVTm7alb6/GjrhFino37Wtzh8gzJjLGQ67dl90FTXWjB1+F58QWzPMSjnl\r\nRB4VC42CatqWv9sEu+zMYb0LaLGSvaA+INZQPsIX56IJfFaOpSN9BIzDQg+6\r\niXcT6jlhCzmD6cNwFbQBzXpGQQChZOYGBw/lJmKqLyyLuvhLLFgqOmRkjkNl\r\nmK/oZc46K96SOQLqHOS9qZ1pYqKIR92jsI+DuOTM1gYMZ1AfQLO27tcDFa6g\r\nrylZXeBXLV33JPjP44t5kjV3UZK98UM3sy0ucHdmgHafiBZ1SqZ90iMhTd2E\r\neqOWvjQHj1MAmYsmqzCOfld9kq4Kp5uhnuI1HFqqYcIstXRbTqu89unpM375\r\nz7gTIV3CAa0Pf6TZck+qKy+3yIYPFsPQbY0=\r\n=Xr/G\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-slidefu-regular_1.0.3_1677378971927_0.9367827983371844"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
       "name": "cn-fontsource-slideqiuhong-regular",
       "description": "「演示秋鸿楷」的字稿作者是一位高中教师刘锡栋，98年加入农民书画家协会，并由Keynote研究所的人生哥进行半自动流程字稿制作，并向全社会发布免费可商用",
       "version": "1.0.6",
@@ -813,6 +882,75 @@
       "_npmOperationalInternal": {
         "host": "s3://npm-registry-packages",
         "tmp": "tmp/cn-fontsource-slideqiuhong-regular_1.0.6_1677339001995_0.6090783071905677"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-slideyouran-regular",
+      "description": "如青竹新生 露拙朴之气 免费商用清新毛笔体",
+      "version": "1.0.3",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "演示悠然小楷"
+      ],
+      "font": {
+        "name": "演示悠然小楷",
+        "type": "free",
+        "fontClass": [
+          "演示",
+          "楷书"
+        ],
+        "link": "https://www.maoken.com/freefonts/3521.html",
+        "version": "Version 2.000",
+        "familyName": "slideyouran",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright © 2020 by keynoteart x mengxiangyuan x QiuyePPT. All rights reserved.",
+        "characterCount": 6957
+      },
+      "license": "unknown",
+      "gitHead": "a4e4dcaf6090770d75038edd6e58bf8a83e0dcac",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-slideyouran-regular@1.0.3",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-Q54mOAEBydnmDu5e4zkbiwQYiIVz7vaVqs4l63vQxKEBuYLQ6ZElD9Yuqmi0MM9WL5/IWFPBdttoyr9zv/V9xw==",
+        "shasum": "fea96a5cde41892cc1c72b8d143a4344149a913f",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-slideyouran-regular/-/cn-fontsource-slideyouran-regular-1.0.3.tgz",
+        "fileCount": 71,
+        "unpackedSize": 6575052,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEUCICHTdpgodeIHdzMpnh5VKJhPkutbydSQ/213S5TYPPLgAiEAopT2oBwZk3F1YF7wyY+wsjYbQHJsFZCg+/SrQRL8d+c="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+sYoACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmp+Gg/6A15ErFocZYjWKEQDduB/2ox3QxKn98dOmGIQal0fdvIF7req\r\n9HXCSNhauPwVPubOnjoXORu71/5KEpDhKt7LWNDJVbrWqkhy/ndXDag9JUeJ\r\n+CZVJkHpmfXIInhJEv2fL8Z8iheDRR8pA1w6oDTFQfIxn94KH5C/h1uszMwB\r\nuTN5uMhFO2lPt1Lghl4dEDKcshfIVsCmDrDZRPikh3nYhSbrUd1rtRA8vvJ4\r\nIRrAOmeoJJbAMxjDYDLJEgXLrKjUlkIcWVdGJevpDJs/eUzzSadvjJTSxiVC\r\nGUZ/Ttsvy9Xsnz9VfOUoXq61uC2RbZJTVPPP7ZJ9Py+Wqx3c68nJCBEqKwpw\r\nwsGcrwDoCKDGOK6Nxza0zfaX+Uu/Ei5ilzuK68yJ9JSLV0/g++EippRHCZDx\r\nq6n7CSlpvtR23JPTOpuYkmIGw1mf3/AovxrPKzergkgRn12U5l4HzBOV4gjv\r\nbs+ZFL3xgs40Do+ZZDHq3YzKkP2besw031zo8LNp7qDtMy9VZR0LdDENfDsY\r\nGgmYF+pbP7A2PF248w2Cu5VHpWNLvPgEC39sR2Xwn7boytnaCqmHE8Qzfare\r\nBjDYcddLS70CtXV2QRYidItV7bsDs4AKch5DQ3YLM/596nrsklyNX6279cOg\r\nTBjmrV9kY+BUo+M2vx86O8E1SjmlEWS4y0w=\r\n=MjDu\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-slideyouran-regular_1.0.3_1677379112053_0.048597758385122036"
       },
       "_hasShrinkwrap": false
     }
