@@ -82,7 +82,10 @@ npm install --global @wcex/cn-fontsource
 ### 点击字体名称可跳转到字体包首页，内有引用说明
 
 <!--@LIST-->
-### 开源字体: 12
+### 开源字体: 15
+<p align="center"><h4><a href="https://www.npmjs.com/package/cn-fontsource-logo-sc-long-zhu-ti-regular">cn-fontsource-logo-sc-long-zhu-ti-regular</a></h4><a href="https://www.npmjs.com/package/cn-fontsource-logo-sc-long-zhu-ti-regular"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-logo-sc-long-zhu-ti-regular@1.0.4/font.png" alt="cn-fontsource-logo-sc-long-zhu-ti-regular"></a></p>
+<p align="center"><h4><a href="https://www.npmjs.com/package/cn-fontsource-logo-sc-long-zhu-ti-zhs-regular">cn-fontsource-logo-sc-long-zhu-ti-zhs-regular</a></h4><a href="https://www.npmjs.com/package/cn-fontsource-logo-sc-long-zhu-ti-zhs-regular"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-logo-sc-long-zhu-ti-zhs-regular@1.0.4/font.png" alt="cn-fontsource-logo-sc-long-zhu-ti-zhs-regular"></a></p>
+<p align="center"><h4><a href="https://www.npmjs.com/package/cn-fontsource-long-zhu-ti-regular">cn-fontsource-long-zhu-ti-regular</a></h4><a href="https://www.npmjs.com/package/cn-fontsource-long-zhu-ti-regular"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-long-zhu-ti-regular@1.0.4/font.png" alt="cn-fontsource-long-zhu-ti-regular"></a></p>
 <p align="center"><h4><a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-gb-screen">cn-fontsource-lxgw-wen-kai-gb-screen</a></h4><a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-gb-screen"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-gb-screen@1.0.6/font.png" alt="cn-fontsource-lxgw-wen-kai-gb-screen"></a></p>
 <p align="center"><h4><a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-gb-screen-r">cn-fontsource-lxgw-wen-kai-gb-screen-r</a></h4><a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-gb-screen-r"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-gb-screen-r@1.0.6/font.png" alt="cn-fontsource-lxgw-wen-kai-gb-screen-r"></a></p>
 <p align="center"><h4><a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-screen">cn-fontsource-lxgw-wen-kai-screen</a></h4><a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-screen"><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-screen@1.0.6/font.png" alt="cn-fontsource-lxgw-wen-kai-screen"></a></p>

@@ -958,6 +958,216 @@
   "paid": [],
   "opensource": [
     {
+      "name": "cn-fontsource-logo-sc-long-zhu-ti-regular",
+      "description": "标小智龙珠体是基于日本著名字体设计公司Fontworks免费开源的摇滚乐 One(日文名：ロックンロール)字体进行简体字补充的一款字体。这款字体的补简工作是由ZERO子、荆南字坊、刘鹏、时光羊、频凡、帆影、雨三、chaotawei、奈白不弍、little white dog、白日月球等(排名不分先后)一起共同历经千辛万苦完成的。",
+      "version": "1.0.4",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "标小智龙珠体"
+      ],
+      "font": {
+        "name": "标小智龙珠体",
+        "type": "opensource",
+        "fontClass": [
+          "龙珠",
+          "标小智",
+          "艺术"
+        ],
+        "link": "https://github.com/maoken-fonts/LongZhuTi",
+        "version": "Version 1.000; 20230201",
+        "familyName": "LogoSC LongZhuTi",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright 2022-2023 LogoSC LongZhuTi Project Authors. 标小智 is a registered trademark of 上海婷平网络科技有限公司. Copyright 2020 The RocknRoll Project Authors (https://github.com/fontworks-fonts/RocknRoll)",
+        "characterCount": 14318
+      },
+      "license": "SIL Open Font License v1.1",
+      "gitHead": "13142db49d8efaec8bddc4f339a732c6096be3dc",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-logo-sc-long-zhu-ti-regular@1.0.4",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-jdvMPlbX3W9bluQYws55w3R3ieABlx1rCmbmj9m7OEE2MRvj6y6nrsl62bhJhMe6jzoEUMOvmOe8QGoto1xKjA==",
+        "shasum": "ca8682cc440bf9e56b0bf97c461249bbcd104d56",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-logo-sc-long-zhu-ti-regular/-/cn-fontsource-logo-sc-long-zhu-ti-regular-1.0.4.tgz",
+        "fileCount": 163,
+        "unpackedSize": 2151882,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEUCICLIPWW1OZNuci9sn0/ktqasBdianl7BYzSXtdjYzIqyAiEAyTb1p7PPcjQ7sD+p3pkXzQiVlFa++OCJYo0jTib79b8="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+sj+ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmq6DA/9Emjfzerq+80sxAKv/7O3EKmSpCYM0PjsKgGroErqKVwpqn5L\r\nV2BVg1GdSw/f/WmJWEucF04IjFqx2+cTxU/LJM/z6SvLHFsyTRlIkllKBGrt\r\n2vx1e00VAk8/SonxVBnMvXM81AXyVrzJenkziuY51BepM7F9LIW9PVoH6tm/\r\nK9rXSmpaEBOieYaWODXSHEHGTut0kzkm7sPnoX60MJeTAFpbZEqNcUpRXY7r\r\nlBxxU/se/nMRekOLZEl4At9ia0vsPlnOeltbg7L9/hea/FYJ0o4psjXlcJoG\r\nSe+nfUIGL+zAVXuH/pNpBbRAJaVc6ZyUd2i8Um+cI/ey6DzQnVCOhGHnPb/I\r\nS2t72Mwir358grnP7w6/bB9nH6pCQ5f/HOHSgHP9aKvBd0v7tZFPiVQjyToY\r\nnGVHcd7AOFWJaci5VnyIvW6ai48Ose+POh0OXeL4SSZjJw6H5ABE1OksMAUS\r\nzq/ZBTdLnFSWLievzYLBEI/rrOUeoTAzWHLMEqibsHwAWY0cO+1H3LigUqS6\r\nUarW0sO2XlqQSmMgGEDxsWjPSFiohZHLSeHSsBqnuaOGMH7KobLN6CBsUBvg\r\nzki+RIfIAImfbKrIcIi6mVpntdK/Nms4L1PfV2JAfEDr0G8EGIEggWbhVMtW\r\nKP+6RAzvmilsMK5b1yW4xvkc6JJuwy0mAlI=\r\n=0uTZ\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-logo-sc-long-zhu-ti-regular_1.0.4_1677379837767_0.35134404652911777"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-logo-sc-long-zhu-ti-zhs-regular",
+      "description": "标小智龙珠体是基于日本著名字体设计公司Fontworks免费开源的摇滚乐 One(日文名：ロックンロール)字体进行简体字补充的一款字体。这款字体的补简工作是由ZERO子、荆南字坊、刘鹏、时光羊、频凡、帆影、雨三、chaotawei、奈白不弍、little white dog、白日月球等(排名不分先后)一起共同历经千辛万苦完成的。",
+      "version": "1.0.4",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "标小智龙珠体"
+      ],
+      "font": {
+        "name": "标小智龙珠体",
+        "type": "opensource",
+        "fontClass": [
+          "龙珠",
+          "标小智",
+          "艺术"
+        ],
+        "link": "https://github.com/maoken-fonts/LongZhuTi",
+        "version": "Version 1.000; 20230201",
+        "familyName": "LogoSC LongZhuTi ZHS",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright 2022-2023 LogoSC LongZhuTi Project Authors. 标小智 is a registered trademark of 上海婷平网络科技有限公司. Copyright 2020 The RocknRoll Project Authors (https://github.com/fontworks-fonts/RocknRoll)",
+        "characterCount": 10740
+      },
+      "license": "SIL Open Font License v1.1",
+      "gitHead": "13142db49d8efaec8bddc4f339a732c6096be3dc",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-logo-sc-long-zhu-ti-zhs-regular@1.0.4",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-MEgi5tCajQWfQMx+Ul/tTksJIFJkDe1RQFY6PEVyg5bJ9fBHVRV+8IkJA9ZlnxHNFBcaSlBPU7dm/+scMhmDtg==",
+        "shasum": "85c4e66c3d6595de9fefe5dd0b7b4fd8cfd27d4c",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-logo-sc-long-zhu-ti-zhs-regular/-/cn-fontsource-logo-sc-long-zhu-ti-zhs-regular-1.0.4.tgz",
+        "fileCount": 126,
+        "unpackedSize": 1473549,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEYCIQDkXArt3aTSvg9aA8udvfjWq++nrkaz1iSyiFMUhH7zhwIhAIpYd+YX+phv+khDGCN72Poz51LMCLkFHDSM6YFmmv8k"
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+skRACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrmAg/9HBGlxSG/a71NcIhzLNAbS6W7LXoVn/IFQSURFDUhcZRXX3Is\r\nSB5z/Gs4rEQSszYeM8+QM8UO+6NefRfYLzI3RVrktG2nAkDA9QTtgrFg5pmb\r\nlVfzxLl3BeUvo8iiU4xnDVLQU+5C1hYsJcXHv4VpTqMoHRWciUSam+TAjdoM\r\nJAZiZbhJNmoucWZw/HqhLxclhP5x10Db1mazsKiDjoIN5i3aMftVWhXbxQVE\r\naQpRD3z09jU741b7P+T05hGDGTrzDirsqtdrLOGCw9kE6Hnx5q/PTIZWwYTz\r\njbp8qsTWvXOcVMatf4LfXlGmzipsraT2lhQkJIuYlMANs++aDv83hus6100u\r\nEAMccNXf/lAEtnXTC05cp/MmckEb7+dM97E2tcjrXwVSwBb/m/Taf6Zq9ejx\r\nrSKMWXlTvz/il28oNaqALnO5f8AXr9jDWxXG9e48jKf3qvN4AkCyLh+uP2Mf\r\niYT7gpClCUCfazlOwHcVNc+2swdcbv41T1UOCPv5VzAWLEiX25pseXo9B54s\r\nlSIP/3Z7aJYsipORxnZO/upDMAuoVBFGbtb9nZMQgWp8czf/QjbIqjzZ770A\r\niTtOf7atN15aLiUoeJHcfeeNFvcN2+C18RFGo2pn8b6NsNevsD0xBnhpg3mM\r\nnc8po5+jgzstHU0hADpht/PwS7n+MGfnH0Y=\r\n=Rx5k\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-logo-sc-long-zhu-ti-zhs-regular_1.0.4_1677379857220_0.48416473382978187"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-long-zhu-ti-regular",
+      "description": "标小智龙珠体是基于日本著名字体设计公司Fontworks免费开源的摇滚乐 One(日文名：ロックンロール)字体进行简体字补充的一款字体。这款字体的补简工作是由ZERO子、荆南字坊、刘鹏、时光羊、频凡、帆影、雨三、chaotawei、奈白不弍、little white dog、白日月球等(排名不分先后)一起共同历经千辛万苦完成的。",
+      "version": "1.0.4",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "标小智龙珠体"
+      ],
+      "font": {
+        "name": "标小智龙珠体",
+        "type": "opensource",
+        "fontClass": [
+          "龙珠",
+          "标小智",
+          "艺术"
+        ],
+        "link": "https://github.com/maoken-fonts/LongZhuTi",
+        "version": "Version 1.000; 20230201",
+        "familyName": "LongZhuTi",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright 2022-2023 LongZhuTi Project Authors. Copyright 2020 The RocknRoll Project Authors (https://github.com/fontworks-fonts/RocknRoll)",
+        "characterCount": 14318
+      },
+      "license": "SIL Open Font License v1.1",
+      "gitHead": "13142db49d8efaec8bddc4f339a732c6096be3dc",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-long-zhu-ti-regular@1.0.4",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-/e6rce61+OE8Yyppm1m8Vc7koDlmVvwRr9bt+nwUTSBgTfZZ7lNgH3iVmsFvqvL7d1XXitIab8EPhpdRLlD7eA==",
+        "shasum": "f7409d1e1c57273b5c667c29b139909e8e57c837",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-long-zhu-ti-regular/-/cn-fontsource-long-zhu-ti-regular-1.0.4.tgz",
+        "fileCount": 163,
+        "unpackedSize": 2160318,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEUCIFq74DhVa+q6sWezxSGBn8yUNSzp0s7dinwSaqY+CbdaAiEAoTwVW7dUAPfUdAQOeAf5OJFyWhuVGyMcT5ZaRbDnhS0="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj+skqACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmplFA//ZYOCHT/I83zbqvuKJEtNYKRqrnaaB9t4gKKR8Y1giZWLwAz4\r\n3LKqTuM8sFgqboljQlHEyazbn/f+ur+ZLZPh23hETdIjY6iXTdssPJBXxoSD\r\nQEThdsZ1G3M1JvsdFqD+qhTU4Mlbhfn5xniR5l1go3iWKieldoZTy7kaabSl\r\nBbiGUArtypluOyFX/pSZGDrZW2pRpyrkCtoSYftxTey4epq6m2sZ/lTIGeYV\r\nQtwg33V+rqbFVOxuXpJG/bQ+xzqyYwC5i9HIdJrj1JxAIurv5qTgUBlyUBIg\r\nEq/PHYvvhlxkhsMT9aAwZ8urXp4/J8el7dfVsO4cCOAdqe8Gq6qP8vmIONBT\r\nT5++o25RY3/dbdV6t8eqVTIWS/uB+q0HGUxZuaoJPxnliEPO5DJh8qyWfp23\r\nfQlDxwzSxxecaW3rrR46+NaNMY5qIPxgTh19JRv1z7nR2eOEUiXBO+hVepXZ\r\noIDG1m4X6/aQfY0G9mTXcb1nXRG9fimjS+qInZcLIhWBvmC2QNYjLp5XvAaK\r\nHlmHGin+9U2ShAlQs3lQnWo6RUokVkoDs7neVUkVFwEPpJHGQ4VYmsAjQahk\r\nGVWr3yuNk1YbSriMZ4kNr8cVEmSO2071Ch71aYZI7TOEtEDdmQEYyYCUwtdK\r\nmnoFfwtSzd5voV/VSiZI0CqePOEDAT/HI6A=\r\n=mjMo\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-long-zhu-ti-regular_1.0.4_1677379882661_0.3711823724004517"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
       "name": "cn-fontsource-lxgw-wen-kai-gb-screen",
       "description": "本字体是 霞鹜文楷 的屏幕舒适阅读版本。由于原版「霞鹜文楷」Regular 字重在 PC 和 Android 屏幕上显示较细，将原版「霞鹜文楷 Bold」的字重属性改为 Regular，调整度量数据与 Android 默认字体 Roboto 相同，更适合 PC 及 Android 手机屏幕显示\nLXGWWenKaiScreen.ttf： 使用文楷完整版字库，不以其他任何字体打底。\nLXGWWenKaiScreenR.ttf： 在文楷完整版字库的基础上，使用 Roboto 打底补全缺失的字符，适合未 Roo",
       "version": "1.0.6",
