@@ -82,8 +82,8 @@ npm install --global @wcex/cn-fontsource
 
 <!--@LIST-->
 ### 开源字体: 12
-<p align="center"><h4><a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-screen">cn-fontsource-lxgw-wen-kai-screen</a></h4><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-screen@1.0.6/font.png" alt="cn-fontsource-lxgw-wen-kai-screen"></p>
-<p align="center"><h4><a href="https://www.npmjs.com/package/cn-fontsource-yozai">cn-fontsource-yozai</a></h4><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai@1.0.6/font.png" alt="cn-fontsource-yozai"></p>
+<a href="https://www.npmjs.com/package/cn-fontsource-lxgw-wen-kai-screen"><p align="center"><h4>cn-fontsource-lxgw-wen-kai-screen</h4><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-screen@1.0.6/font.png" alt="cn-fontsource-lxgw-wen-kai-screen"></p></a>
+<a href="https://www.npmjs.com/package/cn-fontsource-yozai"><p align="center"><h4>cn-fontsource-yozai</h4><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai@1.0.6/font.png" alt="cn-fontsource-yozai"></p></a>
 <p align="center"><h4><a href="https://www.npmjs.com/package/cn-fontsource-yozai-light">cn-fontsource-yozai-light</a></h4><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-light@1.0.6/font.png" alt="cn-fontsource-yozai-light"></p>
 <p align="center"><h4><a href="https://www.npmjs.com/package/cn-fontsource-yozai-medium">cn-fontsource-yozai-medium</a></h4><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-medium@1.0.6/font.png" alt="cn-fontsource-yozai-medium"></p>
 <p align="center"><h4><a href="https://www.npmjs.com/package/cn-fontsource-yozai-bold">cn-fontsource-yozai-bold</a></h4><img src="https://cdn.jsdelivr.net/npm/cn-fontsource-yozai-bold@1.0.7/font.png" alt="cn-fontsource-yozai-bold"></p>
