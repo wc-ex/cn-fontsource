@@ -87,9 +87,9 @@ async function checkNpmPkg(pkgName) {
         break;
     }
   }
-  opensource.sort((a, b) => (a == b ? 0 : a < b ? -1 : 0));
-  free.sort((a, b) => (a == b ? 0 : a < b ? -1 : 0));
-  paid.sort((a, b) => (a == b ? 0 : a < b ? -1 : 0));
+  opensource.sort((a, b) => (a == b ? 0 : a < b ? -1 : 1));
+  free.sort((a, b) => (a == b ? 0 : a < b ? -1 : 1));
+  paid.sort((a, b) => (a == b ? 0 : a < b ? -1 : 1));
   //
   let str = `### 开源字体: ${opensource.length}\n`;
   for (let p of opensource) {
