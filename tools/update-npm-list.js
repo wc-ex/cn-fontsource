@@ -87,9 +87,9 @@ async function checkNpmPkg(pkgName) {
         break;
     }
   }
-  opensource.sort((a, b) => (a == b ? 0 : a < b ? -1 : 1));
-  free.sort((a, b) => (a == b ? 0 : a < b ? -1 : 1));
-  paid.sort((a, b) => (a == b ? 0 : a < b ? -1 : 1));
+  opensource.sort((a, b) => (a.font.name == b.font.name ? 0 : a.font.name < b.font.name? -1 : 1));
+  free.sort((a, b) => (a.font.name == b.font.name ? 0 : a.font.name < b.font.name? -1 : 1));
+  paid.sort((a, b) => (a.font.name == b.font.name ? 0 : a.font.name < b.font.name? -1 : 1));
   //
   let str = `### 开源字体: ${opensource.length}\n`;
   for (let p of opensource) {
