@@ -1,8 +1,8 @@
 // 搜索NPM，获取和更新字体列表
 const child_process = require("child_process");
 const axios = require("axios");
-const path = require('path')
-const fs = require('fs')
+const path = require("path");
+const fs = require("fs");
 
 // const ret = child_process.execSync(
 //   `npm -registry "https://registry.npmjs.org/"  search --prefer-online --no-description --json "cn-fontsource-"`,
@@ -47,21 +47,21 @@ async function checkNpmPkg(pkgName) {
 
 (async () => {
   // 搜索npm包
-  let ret={};
-  try{
-     ret = await axios.get("https://registry.npmjs.com/-/v1/search?text=cn-fontsource-&size=250", {
+  let ret = {};
+  try {
+    ret = await axios.get("https://registry.npmjs.com/-/v1/search?text=cn-fontsource-&size=250", {
       responseType: "json",
       validateStatus(status) {
         return status < 500;
-      }});  
-  }catch(e){
-    console.log('Error: ',e.message);
+      },
+    });
+  } catch (e) {
+    console.log("Error: ", e.message);
     process.exit(0);
   }
 
   // console.log(ret)
   // let jsonPkg = ret;
-
 
   // 获取有效包
   let validPkgs = [];
@@ -87,33 +87,36 @@ async function checkNpmPkg(pkgName) {
         break;
     }
   }
-  opensource.sort((a,b)=>a.localeCompare(b))
-  free.sort((a,b)=>a.localeCompare(b))
-  paid.sort((a,b)=>a.localeCompare(b))
-//  
-let str=`### 开源字体: ${opensource.length}\n`;
-for(let p of opensource){
-    str += `<p align="center"><h4><a href="https://www.npmjs.com/package/${p.name}">${p.name}</a></h4><a href="https://www.npmjs.com/package/${p.name}"><img src="https://cdn.jsdelivr.net/npm/${p.name}@${p.version}/font.png" alt="${p.name}"></a></p>\n`
-}
-// ==== free
-str +=`\n### 免费字体: ${free.length}\n`;
-for(let p of free){
-    str += `<p align="center"><h4><a href="https://www.npmjs.com/package/${p.name}">${p.name}</a></h4><a href="https://www.npmjs.com/package/${p.name}"><img src="https://cdn.jsdelivr.net/npm/${p.name}@${p.version}/font.png" alt="${p.name}"></a></p>\n`
-}
-//=== paid
-str +=`\n### 商业字体: ${paid.length}\n`;
-for(let p of paid){
-    str += `<p align="center"><h4><a href="https://www.npmjs.com/package/${p.name}">${p.name}</a></h4><a href="https://www.npmjs.com/package/${p.name}"><img src="https://cdn.jsdelivr.net/npm/${p.name}@${p.version}/font.png" alt="${p.name}"></a></p>\n`
-}
+  opensource.sort((a, b) => (a == b ? 0 : a < b ? -1 : 0));
+  free.sort((a, b) => (a == b ? 0 : a < b ? -1 : 0));
+  paid.sort((a, b) => (a == b ? 0 : a < b ? -1 : 0));
+  //
+  let str = `### 开源字体: ${opensource.length}\n`;
+  for (let p of opensource) {
+    str += `<p align="center"><h4><a href="https://www.npmjs.com/package/${p.name}">${p.name}</a></h4><a href="https://www.npmjs.com/package/${p.name}"><img src="https://cdn.jsdelivr.net/npm/${p.name}@${p.version}/font.png" alt="${p.name}"></a></p>\n`;
+  }
+  // ==== free
+  str += `\n### 免费字体: ${free.length}\n`;
+  for (let p of free) {
+    str += `<p align="center"><h4><a href="https://www.npmjs.com/package/${p.name}">${p.name}</a></h4><a href="https://www.npmjs.com/package/${p.name}"><img src="https://cdn.jsdelivr.net/npm/${p.name}@${p.version}/font.png" alt="${p.name}"></a></p>\n`;
+  }
+  //=== paid
+  str += `\n### 商业字体: ${paid.length}\n`;
+  for (let p of paid) {
+    str += `<p align="center"><h4><a href="https://www.npmjs.com/package/${p.name}">${p.name}</a></h4><a href="https://www.npmjs.com/package/${p.name}"><img src="https://cdn.jsdelivr.net/npm/${p.name}@${p.version}/font.png" alt="${p.name}"></a></p>\n`;
+  }
 
-// 更新README
+  // 更新README
 
-let readme = fs.readFileSync(path.join(__dirname,'../README.md'),'utf8');
-let newReadme = readme.replace(/<!--@LIST-->[\s\S]*$/g,'<!--@LIST-->\n'+str);
+  let readme = fs.readFileSync(path.join(__dirname, "../README.md"), "utf8");
+  let newReadme = readme.replace(/<!--@LIST-->[\s\S]*$/g, "<!--@LIST-->\n" + str);
 
-console.log(newReadme);
-fs.writeFileSync(path.join(__dirname,'../README.md'),newReadme,'utf8');
+  console.log(newReadme);
+  fs.writeFileSync(path.join(__dirname, "../README.md"), newReadme, "utf8");
 
-fs.writeFileSync(path.join(__dirname,'../cn-fontsource-list.json'),JSON.stringify({free,paid,opensource},null,2),'utf8');
-
+  fs.writeFileSync(
+    path.join(__dirname, "../cn-fontsource-list.json"),
+    JSON.stringify({ free, paid, opensource }, null, 2),
+    "utf8"
+  );
 })();
