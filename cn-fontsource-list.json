@@ -547,6 +547,74 @@
       "_hasShrinkwrap": false
     },
     {
+      "name": "cn-fontsource-hanazome-font-regular",
+      "description": "一款可爱的手写日文免费字体",
+      "version": "1.0.3",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "花中字体"
+      ],
+      "font": {
+        "name": "花中字体",
+        "type": "free",
+        "fontClass": [
+          "手写"
+        ],
+        "link": "https://www.maoken.com/freefonts/16036.html",
+        "version": "Version 2.59",
+        "familyName": "HanazomeFont",
+        "subfamilyName": "Regular",
+        "copyright": "Satsuyako",
+        "characterCount": 14964
+      },
+      "license": "unknown",
+      "gitHead": "1b5b0d5ec765a1da7ab581554ce246556a059ba6",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-hanazome-font-regular@1.0.3",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-k4fHiHoKltYRIDQgVLrpUwr7RyZgTvXVDB0U1qI0PBTjsLaT/iKEf+qdqEACDDFnc3PQW7w4LKJNzx33zElEcA==",
+        "shasum": "2e71e41333e2817162a337568ae6e2d147ad98f4",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-hanazome-font-regular/-/cn-fontsource-hanazome-font-regular-1.0.3.tgz",
+        "fileCount": 209,
+        "unpackedSize": 4200623,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEUCIGwEJB3KtpdLB3IPXgCLs5GpLijl0HifUoQgt/hj10eOAiEAtVwU9zxwt/J+8CXhd+RKHMJXgyjKnpmfwvocwVaAjNk="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj/HPKACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmoj/Q//RVlcZa7VFMRvgjgYEdEiE4VuX2LZKIPdKQG/Ku4P0sFO2N8l\r\n5SDZPg9WrB719ZWiCpLBb7eEZLlNhTpskuZ/ZEKk4TGRJohpoGgVPHUPt8Dy\r\nldOcKbeMmtCDW0nc9UHxU8VUbRWknCxKg2k0Z4cck/nsr933zuYUvOe9rXwe\r\nK/T9jtmO7xw+HFToBnKq9hqi3y3oSNNo796EdbATKVWNbBcNsedXk9P4YQAy\r\nl468FN5RCsijyi58N5kY4J+lq4x0pmazEhiY/bBRAaVvRWBC3sfjXSnuVccF\r\nt+gNp34JLudF5vcvDo8AUMs5muMcjyBluY8YXkBOhAmpmrXcC8PDTQ2MRSss\r\nbsP9siJWoN8opDd6LE77ymlyIRYb4I6hlGrCzX1KadE2/Qrh+YLKs4pAJQuM\r\nf8vOHxFHq3VJJAwOJxx3ymoGufdO58TQQPmW7N7QmjKbGYVWewRns5vZqTMF\r\nICK0rhhUmM7nu+JoX5/9xWvYpP3XJOBfcoaZ3V482uZcOrWzFvtLwl+EYPLv\r\nrTYzA8SxpRoUlvhqymI0eRTn/qnboQwAQcZBLTLtsb7a2ZgCe9nkQ6LLeyTV\r\n+6Nf+xvcvVq276sjA+GoSuBlJXUriA3QhDhAXctaQQN10cBV6EQeHac+5Rey\r\n9r5o4TNFfs+dkbbdqX7nQMNwY0LZ/2Vvo7Q=\r\n=53Dz\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-hanazome-font-regular_1.0.3_1677489097939_0.003414600007548785"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
       "name": "cn-fontsource-hong-lei-zhuo-shu-regular",
       "description": "关于这套被我从回收站捞起来的字体简单说两句\n这套字体写于2021年6月份\n命名为《鸿雷拙书简体》\n拙的本意就是拙略，“丑”的意思，因为写完后才发现是真的丑，放在文件夹里一年半了，前几天整理文件的时候没有任何犹豫直接被我删了。\n然而前几天有个客户发了几张图给我，问我海报上面的字体会写吗。",
       "version": "1.0.6",
@@ -815,6 +883,210 @@
       "_npmOperationalInternal": {
         "host": "s3://npm-registry-packages",
         "tmp": "tmp/cn-fontsource-maoken-zhuyuan-ti-regular_1.0.1_1677353654689_0.004250751994353097"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-mdmd-wu-feng-ti-regular",
+      "description": "浑圆无折角，无笔锋，故名“无锋体”",
+      "version": "1.0.3",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "明达明达无锋体"
+      ],
+      "font": {
+        "name": "明达明达无锋体",
+        "type": "free",
+        "fontClass": [
+          "手写"
+        ],
+        "link": "https://www.maoken.com/freefonts/16288.html",
+        "version": "Version 1.003",
+        "familyName": "MDMD-WuFengTi",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright © 2022, Mingda Woo (https://mingdawoo.com/).",
+        "characterCount": 6815
+      },
+      "license": "unknown",
+      "gitHead": "1b5b0d5ec765a1da7ab581554ce246556a059ba6",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-mdmd-wu-feng-ti-regular@1.0.3",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-VRY2OsLCtbE+89MN+qnLZU6g4YeO38xg4G/IhAYOgJpMIsBfFW2OT0omcaeo1CXPi3kIa8rqnoxkKEgg7muBLg==",
+        "shasum": "f93b503b3fe79089e6f865a364589961248953e9",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-mdmd-wu-feng-ti-regular/-/cn-fontsource-mdmd-wu-feng-ti-regular-1.0.3.tgz",
+        "fileCount": 69,
+        "unpackedSize": 2566578,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEQCIDHdXd3vIk8YA6VSxtlucDMuLiQ77Q7dN+UlOAfSQRblAiAVZEY2RGLr9TzxkedSbj0IFdnV3224JGXEWRwn6XiCAw=="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj/HUQACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmokDQ/8CdwekyHOWEr0I9TAeKjQObld2NwaUuMfE6M638MFt2pmjajg\r\ndpDm5X2wn1uQyzR3yU2/v0+kzw1LB5oTR7gIEWBlwSlkk0Hnbq533HcrmAE0\r\n9bF4JsNJg0piMwrGTS/LimOk27UtxdlBtLHOPFZaeTW7wlh2CwsbGYKHT9Sn\r\n6nYYAJtw60/z8RW8lB6tVV8jEqIY7vsnUJkpk2Y0TA4tzWxBaewm3YrEMcft\r\nvicsydVVBMXF+6MZCj1M86WQ/7ZwkwXjqpl1zHHLqzZIjDXB/xkRx4XgPvh+\r\nldD3EsvwJTLDOnBF1bO+15N/V9LEzEpTkUZaoQ3oIv+yTiZSEE8xlqbIjL16\r\nvNLyjEgnCJt7DwkykwzFC/vSTGzpE+r8TzTBA5PNa3J3G1K983NVkS9ku0fB\r\nv06kUxtzTz0NO6eTJ3CLBbkyFTnHWY4EmpkAtSa3/o6OBXqlBXeydyrVFGAi\r\naeoTorvjQq4Vic2LBN5MeLiSNrd8yQJErN3CsADvsdHThqs8SnHyMdQQxtcL\r\nO5Xm3e3rHngQBEnpF0ltHCA+8c6Wix5MQG4OidNrOiugTL2QIblJ04VTYuvL\r\n0fD4IivXwN5EZjpmHX5n6sy2X4AIgoUUGr5L23M52RkB4N/gYV+wOK5vy4D6\r\nQtv2nHZr8Qv6dPaT4L/84kT9P7kxsWjpyg8=\r\n=XEQi\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-mdmd-wu-feng-ti-regular_1.0.3_1677489424000_0.7195134075401097"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-rii-popkaku-r-regular",
+      "description": "基于POP体概念的带有手写角度的字体",
+      "version": "1.0.3",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "梨沙POP体"
+      ],
+      "font": {
+        "name": "梨沙POP体",
+        "type": "free",
+        "fontClass": [
+          "手写"
+        ],
+        "link": "https://www.maoken.com/freefonts/16141.html",
+        "version": "Version 3.6",
+        "familyName": "RiiPopkaku-R",
+        "subfamilyName": "Regular",
+        "copyright": "Rii Aoi",
+        "characterCount": 8208
+      },
+      "license": "unknown",
+      "gitHead": "1b5b0d5ec765a1da7ab581554ce246556a059ba6",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-rii-popkaku-r-regular@1.0.3",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-84cxeYQG01A3r0s0zA9lCyNYHt4wUu1u2+sKoXF3b474IeS6cArXyP8ORwKyBnujmwDgAJipQiDtCXqWofhWZg==",
+        "shasum": "71f20ed27a8d34b07414a29f84be34602f91c264",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-rii-popkaku-r-regular/-/cn-fontsource-rii-popkaku-r-regular-1.0.3.tgz",
+        "fileCount": 119,
+        "unpackedSize": 2296950,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEUCIQCqE/aBorBBw3cM1jI+v3V8B6I5wMNcn6Omux36O2Yc5AIgXm3OWz5kjKbsN56eGcrV8FTeXjegBGO5BjSyGJYRtKU="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj/HQ0ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpGsA//Wj+xKIcvSDWdiBXS+ZP8XsgGeMmSK7Il2xT7IgeqzSW+vZ6Q\r\nKVe4D6tZTWjrW/G9GQu5GB3k98Ix44Z4HNhT3mELuNBWQXeq8NJGVcanpGA1\r\nKMsiVGYQ73aMj6fl10K+oHWgdphoB9+aGgr3MYR3ZLENrn87qmE3PhT5UyJ0\r\nKhzIjwFnWNVH8+3dfx7o4qcyiwlC4PLQPQO+gh7yvv63ITGP47cYGG9vwH7Z\r\n+9K/SF7I+6thuDJCHw1fPdHqNjk4ZpxiB+Lhtn9bhFaJ5irzYwMQ9mJJTro6\r\nK+MOYQVPEJbmACblqtFqualAkJCsgB7NsYvNXs6JKnBt/HK+ldWLOI2wiIUx\r\nUIjTlN5bwQBNEv7KbEVCZL9Un6EH7OLrjzMGyofREFCmx42Y39fed9eXDxPU\r\n/t1dsCKXw628JrmEbjjwogPm/6EACkT9VezJHZWeQd3fVgDbol87vItc24gt\r\npVN2c6Jvs3zPgf46m3lKijCJMg5Ta7HAwEpJd9zrcT/KKjhX5Y5bgQx2aX7/\r\nKBIElx6vu6l0uQtjjR5mFGDsYn6q1Q5Al9BPBzaBKmUlvPdXBvycKtxKAdiL\r\nkknwIVcWysrdkPOPP/NJe5xNeaxgUuFpXgxZQPwlxJ/lXQ82rgf+9KL9p4Qt\r\nFatJShC23+aZsrtFvPPpgZFQpz78uK9qTlM=\r\n=l47W\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-rii-popkaku-r-regular_1.0.3_1677489203834_0.17044730750585457"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-rii-tegaki-fude-regular",
+      "description": "复古风格的日系手写字体",
+      "version": "1.0.3",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "理衣手写体"
+      ],
+      "font": {
+        "name": "理衣手写体",
+        "type": "free",
+        "fontClass": [
+          "手写"
+        ],
+        "link": "https://www.maoken.com/freefonts/16195.html",
+        "version": "Version 2.41",
+        "familyName": "RiiTegakiFude",
+        "subfamilyName": "Regular",
+        "copyright": "Rii Aoi",
+        "characterCount": 8208
+      },
+      "license": "unknown",
+      "gitHead": "1b5b0d5ec765a1da7ab581554ce246556a059ba6",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-rii-tegaki-fude-regular@1.0.3",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-eZ8suAT7hy/2gPU9mNnsYHlsB9Me2n8MvGPSRSbwkHhZfgJTXURIqGrhRTbQKpqTklE/eccy9gaat5Rlcby8fw==",
+        "shasum": "a11f78d5f023b427a25d2f27bb46ceb486524bbe",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-rii-tegaki-fude-regular/-/cn-fontsource-rii-tegaki-fude-regular-1.0.3.tgz",
+        "fileCount": 119,
+        "unpackedSize": 4039622,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEQCICcJnhiIexsS2xbXBKy/A9L/L2hfbw+aR4fPEqePW/4dAiBAbuCClQiVT74JhqC7WRHffb2Sy3WkhVE5DyWnasPKzQ=="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj/HS1ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrnXQ/+MLKHUX7+bUCG+Tpc/xSQ9LBSCmFoJHy/P2WVXa0eNDrjIRyt\r\nCGQkvKYFLZT9lHdfIhSLOq9CEEQPVcoUuvUdU940goaA6APwiiPIDD1h6e7y\r\neN6bz5G1iUFZP7cqYQdOMoGIRH4KQeXlHzpzp/HO589Mcomm5h3Qt7QRSfSN\r\n+NPL35MV/XLXvAzeXmD9KMBriP/+QereMLlyM+oCQqigNXJyyvC73oDRAriE\r\nlMey26htI77cVvL+r9ytbjeNvs68zJn3OOE5NnxKSlX3sfZYWUI5OBdh7F8U\r\nEQC3OblbVR+3x4qAmgDRL3EDbb0VGxMQKxS20rMaB4/ATFL1ZaL2rnOFTJwO\r\neT95btkI0e/mA/D1eb0EUmoNM4cH/QMeYPcLRzmgMaKDvNUAD70U9dWM7tGb\r\nJRAIckBRtiEGDXr65KLfCuiSf1DxjIVISr00YY2kCWOwKHT8SoW4+hQAvksJ\r\nDxYHdJgqHG+iRMyOAp9v9nE5L2aL8MemWKFLcU90AYXw0g/djjMzPF5HtVsi\r\n+MyJBTT9UWX7RY3UZSKXlKo29iFLF31w64SDy+BZ6au5Vc0BIAlK4g5CLCm5\r\n79q/Yq8TtdHHwvImzM9AMUonJPbodb8xXxu5pk+6g2ot1zzcX/oQSxX4ufJa\r\nPZACik+GUnB689cwwAHJFWRJVEQ7Xx6qib4=\r\n=TSxw\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-rii-tegaki-fude-regular_1.0.3_1677489333349_0.4359483374140285"
       },
       "_hasShrinkwrap": false
     },
@@ -1090,6 +1362,75 @@
       "_npmOperationalInternal": {
         "host": "s3://npm-registry-packages",
         "tmp": "tmp/cn-fontsource-smiley-sans-oblique-regular_1.0.1_1677482309924_0.7260753712074612"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-x-12-y-16-px-maru-monica-regular",
+      "description": "追求由像素形成的曲线美。",
+      "version": "1.0.3",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "莫妮卡像素圆体"
+      ],
+      "font": {
+        "name": "莫妮卡像素圆体",
+        "type": "free",
+        "fontClass": [
+          "像素",
+          "圆体"
+        ],
+        "link": "https://www.maoken.com/freefonts/15534.html",
+        "version": "Version 2021.00",
+        "familyName": "x12y16pxMaruMonica",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright (c) 2021, hicc",
+        "characterCount": 8222
+      },
+      "license": "unknown",
+      "gitHead": "1b5b0d5ec765a1da7ab581554ce246556a059ba6",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-x-12-y-16-px-maru-monica-regular@1.0.3",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-2W5IU76GbyBCORZ8PBFZs9qxMU5KUbhdbo3iqq5+f5aKPHvUCqj5YArMy4eHEC1CYIusC2bTRs77wm5FhDPPjQ==",
+        "shasum": "d745f36f1c3bf8452bbb0005e0b32309f0dd67d0",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-x-12-y-16-px-maru-monica-regular/-/cn-fontsource-x-12-y-16-px-maru-monica-regular-1.0.3.tgz",
+        "fileCount": 120,
+        "unpackedSize": 464744,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEUCIQDDqnHnjMyjOp3s8GI2/J0hcSRCPkV8B8vSRM3xOe4wTAIgZ13rUqWITJ6vaomifwbu5OH1dxZkev75LGUngcdl5OE="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj/HMpACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmodAhAAn35zBaTnF++UlYwj6puFBEoaaDJ9vujw7H+WMkhgEFT0XJpH\r\n1NhCYkvraC7XowFa2ZQYClW5W9QVZmzTtYjJD9s53f7+RZnzmjUi6DMYNJk6\r\nBYuy4cJSIzRJf+4BA63xMNiFy8urc0wF0hf188KGGfbprIlnfunBrBV45qgC\r\nKAeYJHCDUTJoT1OLcGjhbvHR6o0ZUpwXAM6X/9v30St806RHliQ0ffpYnC57\r\nbHsYJWoks8TKkuQJyiOQrvcmMZ21iC0Csequa+dmotywyOsKTS9uHDQVPExi\r\nHNfsaZjM+BWnrs9bpuPC/T/MUuYpcr5Vj7BjvC5PipDupkVPwRxId/I5cgVc\r\ncsTEQ7pbF6p5E/QkS2iCuk+KiyrxyN5Lu1IT9Q9G9Grxbpn8FDd1WSfJpOUr\r\nvQAC5AcFr8U5+Cp+DkZeyAIrTk3IqhR8bpiGWukH4TrQWkOjG+Y+WsoA0GyK\r\nVY5CPOYSMIbsZq63wbBTFOseib9N8qA5tJmXx2yUlENKhOmtObD0thsaKun8\r\nrDHRCf5AcsYRV10L2Wx/ht5KLWPrO59hvE5GJNFP2cQ5Rq9Pa3NyGC1iDvPC\r\nfmcGZOnOUrzUnPoQxINis1v3KKXl75Bqw6Uss4xPiC6AIvEWi7HGb57i1n0F\r\nqN5/VdOys6T5U2+WynGhYTLYhoweOeq77c4=\r\n=/2Bz\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-x-12-y-16-px-maru-monica-regular_1.0.3_1677488937333_0.003921287513342531"
       },
       "_hasShrinkwrap": false
     }

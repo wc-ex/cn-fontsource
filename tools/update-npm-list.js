@@ -111,7 +111,7 @@ async function checkNpmPkg(pkgName) {
   let readme = fs.readFileSync(path.join(__dirname, "../README.md"), "utf8");
   let newReadme = readme.replace(/<!--@LIST-->[\s\S]*$/g, "<!--@LIST-->\n" + str);
 
-  console.log(newReadme);
+  // console.log(newReadme);
   fs.writeFileSync(path.join(__dirname, "../README.md"), newReadme, "utf8");
 
   fs.writeFileSync(
