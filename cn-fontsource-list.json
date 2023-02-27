@@ -1168,6 +1168,144 @@
       "_hasShrinkwrap": false
     },
     {
+      "name": "cn-fontsource-lxgw-marker-gothic-regular",
+      "description": "本字体是基于 たぬゴ角 改造的具有马克笔书写风格的中文字体，可用于漫画、广告等用途",
+      "version": "1.0.1",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "霞鹜漫黑"
+      ],
+      "font": {
+        "name": "霞鹜漫黑",
+        "type": "opensource",
+        "fontClass": [
+          "霞鹜",
+          "黑体"
+        ],
+        "link": "https://github.com/lxgw/LxgwMarkerGothic",
+        "version": "Version 0.106;February 25, 2023",
+        "familyName": "LXGW Marker Gothic",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright 2021-2023 LXGW (https://github.com/lxgw/LxgwMarkerGothic)\r\nCopyright 2020 The Tanugo Project Authors (https://github.com/tanukifont/Tanugo)",
+        "characterCount": 12156
+      },
+      "license": "SIL Open Font License 1.1",
+      "gitHead": "a7bb7fca24b213c5f0a920b62b443deb4d7439ea",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-lxgw-marker-gothic-regular@1.0.1",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-eQB4sEhV174wFIyK0wYIfMSU0kn/U4kxIbuwigb/6Ly6vvUq1vhuIQviv/xKutBiPmwpf8taWrVvyHg9eX+LCA==",
+        "shasum": "b23f787b2c2c8d02d599dcff08ce498c2aea0192",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-lxgw-marker-gothic-regular/-/cn-fontsource-lxgw-marker-gothic-regular-1.0.1.tgz",
+        "fileCount": 132,
+        "unpackedSize": 1374862,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEUCIQDOH6rLYnlAYpnmBU/TGu8ZYKI5x+Sjv0ylN4EKoJ/tEwIgJ/CziUuhD93xLkh2SAfVn26yEKwBBboLO98PcjY6Gfk="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj/E8PACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmquog/+MLFAQR1b8jmq1x35D19reBCa+j017+tsX5/YhFKYzzZDegAY\r\njSRdFV4WS0LPXMKfJAdQHGb/3j6Q8a6PE79l4nC5T/UXfgchZLwy+dyEcGZM\r\nDuDtB7A7vwVbrDtuhGzaR0Z/yE/fqsYdbvTembdtbmXGXV5M9mN8X8SMmD4g\r\n3vcOw/GBsy/SRiPXJWCq5/lYxwlCsXc01JECYLmkFQFyO2RUs6+y3gd7OJAq\r\nmDdCnAVe0eyRiQ8kYb2Z9IGlLw1KGLQLSiNQOmj9mhrMa0SRoqtEAQsDrTUA\r\nxktisCXcLNOxNGlePzzMoBrQ6dIOq+cg/eFmFqxfjFASdCHpOnGn+i53C4Nm\r\nAOu3vjSQX51kUUEYnAUaC4CZN+s1vWbWD6Lz/tBx/EgZvPNzjcUxubQEmJuN\r\nF0NxKdrs1WtmlB0ScKrlnv8H6DAXRAvgkBOxZIqVvQLCoMAzOB1T6r9nGGIK\r\nEJPLB/q40Q39A0aVCw2K8lPll2b0vu7LVwTHgfQCFW5OlRe9C8IgXIMuTYsn\r\nWaxW2X1wcLDTHdqdb+ILCfgJg7oQocRoCd6y+8rw/V5onzdEjL07YJeqMm7X\r\nCGWxv9m7H2IQagJLNL+sNjGTGPH/5lfR4zU7aunudNYFYPX3cx2mmMFj6kRd\r\ndMXnh/OGxYbr8E3xtUEiw0qNF543jXr/gaY=\r\n=Ij5/\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-lxgw-marker-gothic-regular_1.0.1_1677479695143_0.22008111343772496"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-lxgw-neo-xi-hei-regular",
+      "description": "这是一款基于 IPAex黑体 的中文开源字体，是将日本写法的字体改造成中国大陆规范写法的尝试。",
+      "version": "1.0.1",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "霞鹜新晰黑"
+      ],
+      "font": {
+        "name": "霞鹜新晰黑",
+        "type": "opensource",
+        "fontClass": [
+          "霞鹜",
+          "黑体"
+        ],
+        "link": "https://github.com/lxgw/LxgwNeoXiHei",
+        "version": "Version 1.007;February 26, 2023",
+        "familyName": "LXGW Neo XiHei",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright(c) 2021-2023 LXGW; Information-technology Promotion Agency, Japan (IPA), 2003-2019. You must accept \"https://opensource.org/licenses/IPA/\" to use this product.",
+        "characterCount": 17037
+      },
+      "license": "SIL Open Font License 1.1",
+      "gitHead": "a7bb7fca24b213c5f0a920b62b443deb4d7439ea",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-lxgw-neo-xi-hei-regular@1.0.1",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-XsLW+HU9ms7reUfGnNRGN/nkriupBBTjdnEafThBL+0DUsBetKoUYf6M8L6jz8yGNag7ePiOeByRBQAPqPkxAw==",
+        "shasum": "331e4a13813ddaa72cd598025b5791a016a93fe7",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-lxgw-neo-xi-hei-regular/-/cn-fontsource-lxgw-neo-xi-hei-regular-1.0.1.tgz",
+        "fileCount": 204,
+        "unpackedSize": 2592490,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEYCIQCF3RJ0aOiw1GkY7VMK3wtlt9lprl85nOSN5f+ZxQ95zAIhAJbcczPIQpes4USi6tZ2KXARyWDWFNy9XPegbwfDKvcL"
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj/FAnACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqJshAAirN0YglRK+JSa0+mPwBnAC/MrTTRbqgKfo9xptrilloifnTK\r\nVddiXmfMK8V5i9dyRbJv8mvb4UjETSJ0Wa7SyB0/x8O0jpzvOotDIUTMxp7y\r\n2FLrbR6tdyBAFJOw700igiO9WdTJqJf8aXyA/Ba+NYwMuGjFuOPGqJWxG7k2\r\nxhRONGcZnUC6myAzpycHLK+3LwrZpXBihPSCYiPLnkmUHmEDjDu8dCBylNGf\r\nKx7NCupzDquOV+GE9do7dW4E2LopzeV/f6mllzyqHMqbFDNqoMJCerHwUJy8\r\nVMy6RVkRPBYrePi1Mc0TzFKUm11bY99/pNJsgY0GPWRpkfc9lc9ufsY8914o\r\nhlclSMlva1QnxjOJQlol4aahoefhuBZxy4q9JnBnhCiJKr2GJQ7pThsbTWP3\r\nGp7I6ZMj/HpvsEqqINeSFNUXj+MpN/5hAaSq2Tv+z7EjTerWgA+aIukR+z/e\r\nnlkpA0mPWckRAFf/+rNUu0Du6lnKBYTMu/Cz6BoBWDeBLj/eY+oBX12W4CyW\r\n2YQNmvwmjFQoLK6yXiw440RGmMPccbDNtj1i0yUUX+SoC7FT9QedBOyY85qI\r\nseP3zFYBtiE0G7ue3UEnwdzjE/ykUQngkQ/NKGFqKMocFcBwzPyLjI+uS3s0\r\nPyBTAeLwEbKkysbjv9AKmeBCg6AhUrpMmfs=\r\n=axDN\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-lxgw-neo-xi-hei-regular_1.0.1_1677479975140_0.23343793908874022"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
       "name": "cn-fontsource-lxgw-wen-kai-gb-screen",
       "description": "本字体是 霞鹜文楷 的屏幕舒适阅读版本。由于原版「霞鹜文楷」Regular 字重在 PC 和 Android 屏幕上显示较细，将原版「霞鹜文楷 Bold」的字重属性改为 Regular，调整度量数据与 Android 默认字体 Roboto 相同，更适合 PC 及 Android 手机屏幕显示\nLXGWWenKaiScreen.ttf： 使用文楷完整版字库，不以其他任何字体打底。\nLXGWWenKaiScreenR.ttf： 在文楷完整版字库的基础上，使用 Roboto 打底补全缺失的字符，适合未 Roo",
       "version": "1.0.6",
@@ -1504,6 +1642,144 @@
       "_npmOperationalInternal": {
         "host": "s3://npm-registry-packages",
         "tmp": "tmp/cn-fontsource-source-han-serif-sc-vf-regular_1.0.1_1677353506678_0.51325465770456"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-xiaolai-mono-sc-regular",
+      "description": "本字体是 濑户字体 的简体中文化改良，利用濑户字体里原有的部件，对原字体中缺少的汉字进行补足，主要为 GB2312 及《通用规范汉字表》里的汉字，其余的汉字、谚文、特殊符号用 cjkFonts 全濑体 补全。现有 CJK 基本区汉字 20949 个，扩展 A 区汉字 6582 个，B 区汉字 368 个，C 区汉字 44 个，D 区汉字 9 个，E 区汉字 108 个，F 区汉字 1 个（「韡」的简体字「𮧵（U+2E9F5）」），G 区汉字 2 个（biáng 字的简繁体「𰻝」（U+30EDD）「𰻞",
+      "version": "1.0.3",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "小赖字体"
+      ],
+      "font": {
+        "name": "小赖字体",
+        "type": "opensource",
+        "fontClass": [
+          "小赖",
+          "手写"
+        ],
+        "link": "https://github.com/lxgw/kose-font",
+        "version": "Version 3.11;December 4, 2020;FontCreator 13.0.0.2613 64-bit",
+        "familyName": "Xiaolai Mono SC",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright © 2020 LXGW",
+        "characterCount": 44246
+      },
+      "license": "SIL Open Font License 1.1",
+      "gitHead": "a7bb7fca24b213c5f0a920b62b443deb4d7439ea",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-xiaolai-mono-sc-regular@1.0.3",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-gtrs656RKbI+lGY/iS12iBoMeABRITjpPycjh74uorPT4pwMIs2B2VhZBeP/l6OSiGdH4BTc9hHImTd39jj6Ig==",
+        "shasum": "eda0657923916a49bea63300335cea9e4ed27e87",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-xiaolai-mono-sc-regular/-/cn-fontsource-xiaolai-mono-sc-regular-1.0.3.tgz",
+        "fileCount": 624,
+        "unpackedSize": 13613624,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEUCIQCwWNejdHKbEQ+S5t4r8LRXZ39Zvha34esKI3pJdEBPbAIgAunBSfErqp6rQYudVddUezzDiTvHcVC3cjE3WX8IvsM="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj/FLfACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmq/HQ//Zj/970207I7Q0AI6M7PfsTrgxy5Bg92jSZ6D+Bqq6U0vdm30\r\nI4pllcIKBYGoBe+JqRU4hzdUBzM8CObSzsmoVgg2TnW21p8xFcgIkx+0uSxx\r\nmnEOce+4BzWyJD5POF1jWfzks/MzEMKYsYGByI1R22tAGDFqIdUCLSEYgShd\r\nSm7Gv2qKaEtA5C5//yBN7nBb6BM+9Omq9VGv3JWYG0TpzA9zsJ+nlenaCJdZ\r\ngPtVb5+0KO77F0wQZnjfC5PQNvikThZAn2BWkfDgK+Pg1Vtz9lXTJnYrc4zF\r\nOOmR8QPciSSrfi/+7RsgexzGGQBtXjhUFRtw60BcUzf5OpbxbYr4/MN07aCA\r\n/VId+g56fTdDu4RrXTwjaKKXFyr6lsWC+Qcn34BJ17obq5+rxZuw6agU5nAw\r\nD23FjpLvHdmEpPXY9lY2IdlG5jkY3CDeMTwThZkHylwWggkBdVr/Uq9TiH0g\r\ncO7RQxKYMJrZ7YHfWnVIEgzPd+E5oJPObSFTE5Rnj5+g5J4tuRhGsJzxzGM1\r\nt1z1nS99tMPw9lDbiZjRqEmX294NsulcPzKz+zURi+27R13OJEUIornQXnH9\r\nfTAwlXaw/R1YOV9H3cbOkW1wReeF9BopDQIfVkpiNP0dyF2VCHQ+KL2aqdsC\r\n+npYs1vuQsiYT6klER7pH7fn69Ea3PI+N0s=\r\n=3Zd4\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-xiaolai-mono-sc-regular_1.0.3_1677480670779_0.24212205406393328"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-xiaolai-sc-regular",
+      "description": "本字体是 濑户字体 的简体中文化改良，利用濑户字体里原有的部件，对原字体中缺少的汉字进行补足，主要为 GB2312 及《通用规范汉字表》里的汉字，其余的汉字、谚文、特殊符号用 cjkFonts 全濑体 补全。现有 CJK 基本区汉字 20949 个，扩展 A 区汉字 6582 个，B 区汉字 368 个，C 区汉字 44 个，D 区汉字 9 个，E 区汉字 108 个，F 区汉字 1 个（「韡」的简体字「𮧵（U+2E9F5）」），G 区汉字 2 个（biáng 字的简繁体「𰻝」（U+30EDD）「𰻞",
+      "version": "1.0.2",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "小赖字体"
+      ],
+      "font": {
+        "name": "小赖字体",
+        "type": "opensource",
+        "fontClass": [
+          "小赖",
+          "手写"
+        ],
+        "link": "https://github.com/lxgw/kose-font",
+        "version": "Version 3.11;December 4, 2020;FontCreator 13.0.0.2613 64-bit",
+        "familyName": "Xiaolai SC",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright © 2020 LXGW",
+        "characterCount": 44246
+      },
+      "license": "SIL Open Font License 1.1",
+      "gitHead": "a7bb7fca24b213c5f0a920b62b443deb4d7439ea",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-xiaolai-sc-regular@1.0.2",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-rkLcZXlACDqqVPAsqA6G3fUoJH/GsUkxJunWEQcS9xHDYmObGJm+ZYvhuwjAbwgJZW+LIStJIkeYwNI4tp30sQ==",
+        "shasum": "ce66a218a66c471c06c397222c211334430d8394",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-xiaolai-sc-regular/-/cn-fontsource-xiaolai-sc-regular-1.0.2.tgz",
+        "fileCount": 624,
+        "unpackedSize": 13613811,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEYCIQDV3WpWO99imwFiWGNI78GwKzPhatTAKnlCQgT0l8g6ywIhAJSMhW4QwR0fmkWqY9+8STyMQy1Pf0NDAyLrh8vEYqYm"
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj/FMEACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrPvA/+KqrN3YUVhiqLA06bH/1Wj1vH/EyxF2NPBVKu3SgfSfUFz3UB\r\n7h8lNK6FjA22rrAaI2NhMSQ+TJnjEZ0jYoZSaySwY1piSA2insUTV3gy8Kb3\r\nphkOl09rmWBXe28ZAMNbrb+tyZj1GoS+uiX2zdHXghRJAJ4Y1cz5jV7lNYeA\r\nfq8tZ4HxemE8rXmFaMBvMdbdvtVNKVV/Za0LYLsxF0OATvcqEPA63f+ze5B6\r\ngYCHnQ9sUGwBcPUq38pt6UhFTEi1CuNyUuhaYjFmlgiT/oqzHLT1yxt8i+Wz\r\nRFx06UqKzB+1ocoinrgwAGIC0YyyjUhbBazIV39psxNSoXWUWPSwHcvkRQPl\r\nt767vIGIQM4Ap8y6SoHxxtOHvSwmYk23gkx5Prl3tAOTULbfd4HceMm+HZuv\r\n1SgtNiFaW1dvz7+PXbsPK5wqhFbz+yUIGoH/t3pWa6DfEz/SoiJvkftCnMx5\r\na+qWEZ9icRIbYqc2MWsSJdR5AGeIcsq3ot3WtzcJAUUJ/7NKlGJv0kICb1hT\r\nkorXia/v0aqJwIFHprvbbqjjTmNf7CZT9TBLowKhwY7+OFKdFad+z8GKjtEp\r\ngJKN7Cr7m33E2kxWEoJdzKNQYN7KndlrAYxGG58Lb5+2+WcAXpS7l/UZXfjb\r\ncxFVOzxUPlbS2lnX57qek9WhVySO46nGXDw=\r\n=u5aa\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-xiaolai-sc-regular_1.0.2_1677480708533_0.2673534819334116"
       },
       "_hasShrinkwrap": false
     },
