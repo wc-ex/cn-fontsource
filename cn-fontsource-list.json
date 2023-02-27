@@ -70,6 +70,75 @@
       "_hasShrinkwrap": false
     },
     {
+      "name": "cn-fontsource-ding-talk-jin-bu-ti-regular",
+      "description": "钉钉品牌字库 更具人文温度的免费商用字体",
+      "version": "1.0.3",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "钉钉进步体"
+      ],
+      "font": {
+        "name": "钉钉进步体",
+        "type": "free",
+        "fontClass": [
+          "钉钉",
+          "黑体"
+        ],
+        "link": "https://page.dingtalk.com/wow/dingtalk/default/dingtalk/y-W5aF3_ZJwzulU0nceIl",
+        "version": "Version 1.00.00",
+        "familyName": "DingTalk JinBuTi",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright © 2022 DingTalk (China) Information Technology Co., Ltd. All rights reserved.",
+        "characterCount": 7498
+      },
+      "license": "unknown",
+      "gitHead": "71e41f591862093b41efa73b2803a3bee02748f9",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-ding-talk-jin-bu-ti-regular@1.0.3",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-DeSn8ooCvRnYxC2306F/rFb5jI9AquYGwGlTlc1LeJjpoSE/rKPndGlGrjyFFXsPyJq4vbrlU+Rwtp2DzWXEJw==",
+        "shasum": "3199e61a91c9246a4179264f0df68d923c9b3494",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-ding-talk-jin-bu-ti-regular/-/cn-fontsource-ding-talk-jin-bu-ti-regular-1.0.3.tgz",
+        "fileCount": 80,
+        "unpackedSize": 1270862,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEUCIEIX/JAI2lBELPMfYG7hAoE3pKbeT3ySGnuVxtW39d33AiEAzlMeFIyi7t2XvZtFSfniUt0qdJxxmuZg5uhSxxi2GCk="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj/FV2ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqtiQ/+LmuarbWW3v6Fj0u0i2zi9NJMQqlVoKyrZUzSMFHAxmhro1IZ\r\npSF5X37btzCDprOSAfF//xJ/X5hPQ8qAZbXQ/9QqsiWu3QawcfSvlpkBEJwF\r\ncqu96wqWCgiP94d5jp9dw2wc+4XzbLxdZmGGktQMA9MQW+U6i/lM/GFg63Uo\r\nMhNk0oFaZ51urjF41+FinaTCdOM24ek47ZZHPYdRavD/UwGAUvyf+f+Ge+rp\r\nnaj1Vbz1fw9H+05werW4bCgN89VeP8OJyYsGG45e0iclDEtjOJWzGHc9IfIp\r\nmFak16jexUIVAyenuTCP7xD0o3QSjvFclWHPhqSALOu+RTiaID03hfIz+Blf\r\nHOLulMjVd6qNGup1X1ordZ2b3VOZxIsMSuqnelEBEH6bLet+FPp95erJAo5w\r\nEfocL1Sy3DpxCZ5gkon0eCjR+QUzMb+BhRjFtu1F7HkKgFezaLKodbxlVhfB\r\nLGfpMTEGcKvvqdT61HO+u88C2HPtCPSOb9hIV1JvQHeG/1C6OwvMNrm7wJGA\r\nyE4dIXZS4WdS82/xB30RQRPblIuvklf5+4s/4PANSvZZ5cCj/axJu1szQc0j\r\n2IJXYlIBFmE00p3Rv9+1Q/t1CJt+6Y8ruVtXlhm6+Fh14mSrvAt5SKovjwDH\r\nDWKZ4UJOSRvjhAGg1lvo8+bPlLnStCoHn6o=\r\n=fGhb\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-ding-talk-jin-bu-ti-regular_1.0.3_1677481334409_0.8563664651269998"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
       "name": "cn-fontsource-fontquan-xin-yi-ji-xiang-song-regular",
       "description": "字体圈欣意吉祥宋涵盖国家GB2312编码标准的6763个中文字符，52个英文字符，10个阿拉伯数字，若干个标点符号，按需添加若干生僻字，共7000余字符。这是一套宋体风格的标题字，风格整体偏圆润古风，目前市场上免费商用的宋体字，除了思源宋体，好像就是思源宋体的修改版，没有专门设计风格的宋体字。\n字体命名原本打算跟风格相同，欲名为“润宋体”，但没有什么特殊意义，毕竟免费字体可遇不可求，2020年确实是困难的一年，从年头到年尾非常艰难的度过，后来决定今天发布后，想到两个词“吉祥”与“平安”，纠结了好一会，最终",
       "version": "1.0.7",
