@@ -1022,6 +1022,76 @@
         "tmp": "tmp/cn-fontsource-slideyouran-regular_1.0.3_1677379112053_0.048597758385122036"
       },
       "_hasShrinkwrap": false
+    },
+    {
+      "name": "cn-fontsource-smiley-sans-oblique-regular",
+      "description": "这是我以oooooohmygosh身份发布的第一款字体，11月15日正式开源发布，大家可以免费商用无任何限制，也可以修改创作。说个不太切实际的梦想，我希望以这个身份发布的所有作品，都是开源或者公益的。 这套字经过我和其他字体设计师伙伴们一年多的波折，终于要面世了。这款字虽然是美术字，但却是一个有挑战的命题。因为它有三个特征「大弧线、窄、斜」，每一项都很难做好。更何况把它们仨融合到了一起，还要去追求稳、匀、整……",
+      "version": "1.0.1",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "得意黑"
+      ],
+      "font": {
+        "name": "得意黑",
+        "type": "free",
+        "fontClass": [
+          "得意黑",
+          "黑体",
+          "艺术"
+        ],
+        "link": "https://www.maoken.com/freefonts/17247.html",
+        "version": "Version 1.1.1",
+        "familyName": "Smiley Sans Oblique",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright © 2022–2023 atelierAnchor. All rights reserved.",
+        "characterCount": 7867
+      },
+      "license": "unknown",
+      "gitHead": "c105e0dd68cd22bfc628692b1a8ffddaf094a09c",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_id": "cn-fontsource-smiley-sans-oblique-regular@1.0.1",
+      "_nodeVersion": "19.7.0",
+      "_npmVersion": "9.4.0",
+      "dist": {
+        "integrity": "sha512-F011I+Kic76lo/hoQbZGoVxd+P7/UeKazE3HbgwZkhjhA9AD//mmyyn6MIDbQe7lsQaPvRUKslrRIni/EusJtw==",
+        "shasum": "f146627f3c66a46a197ef4b06feae747bfe6517f",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-smiley-sans-oblique-regular/-/cn-fontsource-smiley-sans-oblique-regular-1.0.1.tgz",
+        "fileCount": 85,
+        "unpackedSize": 1262451,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEUCIFCL3VRzYW4Lt2M2w9LRXA1k9STuoLeFPosHem76HNCLAiEAtM7g8panwU9TPYaQHfg6jTnUx/1+jQyjWuBOuwaknq8="
+          }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJj/FlGACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpxzhAAnL+hwF9HO+EdfXAllfXM6V16d70pYPBwbJasH0rpmF0iwZWp\r\n/lKYvVcEcBzAivCNUT6TRnDwSdUivGq1ZyFgSn6SwZdIgfyIZ5lOmIsTilTv\r\nMp9S97lkEAfJrnA56gA61EJAnPXQYFcLpkyFCqWxvya9btR606n+P2ItULLp\r\n3isL919J/6VOZiV/XkHO6ohyUNgcdky4zF+HE6/Aijudy+RXU1qAuiyysqRJ\r\nlv8Ij7KWjaNyO24WTnm6peZrDbGiK5tC7xWra0qY7n3yf/a8Q0hDJU8ow2Wb\r\nRoN/EJDL7hPs9GSouRR8BmTTbZ2XtFrgTcBXrs14k5+6U9haJEx1logLZ6w/\r\n3CvEyL98j4LaF/UtCY/Y/JV674GsWRGoODWu8vY999ru0SqrRz+316rORFrO\r\nkGzMZhfTT8n6VcvFnCA2tqo5UOQv17EysovQEWL93UAGwtzVAA3XaI23WOWn\r\nAT1/Fj+49SLjVN791poUQweyjMCMmo7oC1pxnKgllR8uA+5CXW+cP2x7wZUa\r\nj67xjJa26P3SXU/ox4PtjzMdxBnLmw4Rjp8C/GTMVHtcn03ec5BMONppDRhf\r\nGhhvaQeWpGByIAYtFLvyPwJI61jmabHz3DWYu/ytdEaqPHVLV/ZVeAXT0ZoP\r\nuAv2Iej6d6VW3FWnTNWPLL1uOp0MYZzUMyg=\r\n=XDts\r\n-----END PGP SIGNATURE-----\r\n"
+      },
+      "_npmUser": {
+        "name": "zhfjyq",
+        "email": "zhfjyq@163.com"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "zhfjyq",
+          "email": "zhfjyq@163.com"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-smiley-sans-oblique-regular_1.0.1_1677482309924_0.7260753712074612"
+      },
+      "_hasShrinkwrap": false
     }
   ],
   "paid": [],
