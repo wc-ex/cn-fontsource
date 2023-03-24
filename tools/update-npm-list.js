@@ -119,4 +119,12 @@ async function checkNpmPkg(pkgName) {
     JSON.stringify({ free, paid, opensource }, null, 2),
     "utf8"
   );
+  // 更新版本
+  let pkgJson =JSON.parse(fs.readFileSync(path.join(__dirname,'../package.json'),'utf-8'));
+  let sp = pkgJson.version.split('.').map(v=>parseInt(v))
+  sp[2]++;
+  pkgJson.version = sp.join('.');
+  console.log("new version:",pkgJson.version);
+  fs.writeFileSync(path.join(__dirname,'../package.json'),JSON.stringify(pkgJson,null,2),'utf-8');
+
 })();
