@@ -1991,6 +1991,73 @@
       "_hasShrinkwrap": false
     },
     {
+      "name": "cn-fontsource-lxgw-neo-zhi-song-chs-regular-lxgw-neo-zhi-song",
+      "description": "这是一款基于 IPAmj明朝 的中文开源字体，是将日本写法的字体改造成中国大陆规范写法的尝试。本字体是「霞鹜新晰黑」的姊妹字体，尝试在「IPAmj明朝」原有字形的基础上，将其改造成中国大陆规范字形。除此之外，重做了希腊字母和西里尔字母，与原字体拉丁字母部分风格基本一致，更适合现代希腊文及西里尔文的排版；新增对越南语拉丁字的显示支持。符号方面，支持易经八卦和六十四卦符号、太玄经八十一卦符号、麻将符号、中国象棋符号、算筹数字、「正」字计数等特殊符号。",
+      "version": "1.0.0",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wc-ex/cn-fontsource.git"
+      },
+      "keywords": [
+        "cn",
+        "cnfont",
+        "cn-font",
+        "fontsource",
+        "霞鹜新致宋"
+      ],
+      "font": {
+        "name": "霞鹜新致宋",
+        "type": "opensource",
+        "fontClass": [
+          "霞鹜",
+          "新致宋"
+        ],
+        "link": "https://github.com/lxgw/LxgwNeoZhiSong",
+        "version": "Version 0.100;July 6, 2023",
+        "familyName": "LXGW Neo ZhiSong CHS",
+        "subfamilyName": "Regular",
+        "copyright": "Copyright(c) 2023 LXGW; Information-technology Promotion Agency, Japan (IPA), 2003-2019. You must accept \"https://opensource.org/licenses/IPA/\" to use this product.",
+        "characterCount": 9998
+      },
+      "license": "free",
+      "_id": "cn-fontsource-lxgw-neo-zhi-song-chs-regular-lxgw-neo-zhi-song@1.0.0",
+      "bugs": {
+        "url": "https://github.com/wc-ex/cn-fontsource/issues"
+      },
+      "homepage": "https://github.com/wc-ex/cn-fontsource#readme",
+      "_nodeVersion": "18.16.0",
+      "_npmVersion": "9.8.0",
+      "dist": {
+        "integrity": "sha512-LZuCSy2gdSbb0DVLgbi5cG69ng1Qr+CrXnbBpMhSoGofP+NAbeL0nOulbpnb5TFdsZaVWkcFR8XKD2Ol40L3Kg==",
+        "shasum": "80c1578935dd4a1a404eee5ccaccfe4f316c5020",
+        "tarball": "https://registry.npmjs.org/cn-fontsource-lxgw-neo-zhi-song-chs-regular-lxgw-neo-zhi-song/-/cn-fontsource-lxgw-neo-zhi-song-chs-regular-lxgw-neo-zhi-song-1.0.0.tgz",
+        "fileCount": 116,
+        "unpackedSize": 1988965,
+        "signatures": [
+          {
+            "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+            "sig": "MEQCICc4Yfzta3uNAS4RAs7TB5Isp2B36y+ZuGpmeC1qT6qjAiADYtBPEx9GkWWzQ/wruMJE2r6zIarnXZVaS6BsgOVRhA=="
+          }
+        ]
+      },
+      "_npmUser": {
+        "name": "haihwa",
+        "email": "whh@outlook.in"
+      },
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "haihwa",
+          "email": "whh@outlook.in"
+        }
+      ],
+      "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cn-fontsource-lxgw-neo-zhi-song-chs-regular-lxgw-neo-zhi-song_1.0.0_1688893963880_0.7453953496309893"
+      },
+      "_hasShrinkwrap": false
+    },
+    {
       "name": "cn-fontsource-lxgw-wen-kai-gb-screen",
       "description": "本字体是 霞鹜文楷 的屏幕舒适阅读版本。由于原版「霞鹜文楷」Regular 字重在 PC 和 Android 屏幕上显示较细，将原版「霞鹜文楷 Bold」的字重属性改为 Regular，调整度量数据与 Android 默认字体 Roboto 相同，更适合 PC 及 Android 手机屏幕显示\nLXGWWenKaiScreen.ttf： 使用文楷完整版字库，不以其他任何字体打底。\nLXGWWenKaiScreenR.ttf： 在文楷完整版字库的基础上，使用 Roboto 打底补全缺失的字符，适合未 Roo",
       "version": "1.0.6",

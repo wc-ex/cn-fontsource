@@ -1,0 +1,13 @@
+{
+  "name": "@cnfontsource/pkg",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pub": "npm --registry \"https://registry.npmjs.org/\" publish --access public",
+    "uplist": "node ./tools/update-npm-list.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
